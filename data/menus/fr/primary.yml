@@ -13,4 +13,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Modes de jeu
+  target: "/modes-de-jeu/"
+  kind: page
+  children: []
 
