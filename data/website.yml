@@ -5,6 +5,9 @@ external_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
+  - "www.youtube.com"
 social:
+  email: >-
+    niels@futurs-lejeu.fr
   instagram: >-
     https://www.instagram.com/futurs_le_jeu/
