@@ -1,35 +1,178 @@
 // UTILS
 @mixin gradient-button
     background-image: $gradient
-    
-// SECTIONS
+
+@mixin block-overlay($background: $gradient-overlay)
+    &::before
+        background-image: $background
+        content: ''
+        height: 100%
+        position: absolute
+        top: 0
+        width: 100%
+        z-index: 2
+
+@mixin block-background
+    position: relative
+    > *
+        position: relative
+        z-index: 2
+    picture
+        height: 100%
+        left: 0
+        position: absolute
+        top: 0
+        width: 100%
+        z-index: 1
+        img
+            height: 100%
+            object-fit: cover
+
+@mixin reduced-width($col: 6)
+    margin: auto
+    text-align: center
+    width: col($col)
+
+// HEADER
+.hero
+    @include block-overlay
+    background:
+        attachment: fixed
+        size: cover
+    position: relative
+    > .container
+        position: relative
+        z-index: 3
+        text-align: center
+        img
+            max-width: px2rem(550)
+        hgroup
+            margin: auto
+        h1
+            font-size: 0
+
 .pages__section
     .block
         &-call_to_action
-            position: relative
-            &::before, 
-            img
-                height: 100%
-                left: 0
-                position: absolute
-                top: 0
-                width: 100%
-            &::before
-                content: ''
-                background-image: $gradient-overlay 
-                z-index: 2
-            img
-                z-index: 1
-            .call_to_action > div
-                position: relative
-                z-index: 3
+            @include block-overlay
 // BLOCKS
-.block
-    &-call_to_action .call_to_action 
-        .description p
+body,
+body.full-width
+    h2
+        @include reduced-width
+        text-transform: uppercase
+    .block
+        .block-content > div > *:not(.video, .call_to_action > div, .block-chapter--accent_background .text, figure, .splide, .person),
+        &-testimonials .testimonials
+            @include reduced-width
+        &-chapter 
             font-family: $body-font-family
-            font-size: $body-size
+            &--accent_background
+                @include block-background
+                @include block-overlay($gradient-dark)
+                position: relative
+                height: 90vh
+                @include media-breakpoint-up(desktop)
+                    height: 100vh
+                .container
+                    align-items: center
+                    display: flex
+                    height: 100%
+                    justify-content: center
+            .chapter > *
+                margin: auto
+                text-align: center
+        &-video .block-content
+            margin: auto
+            max-width: col(6)
+        &-features
+            ul
+                margin: auto
+                padding: 0
+                width: col(6)
+            figure
+                margin: auto
+                width: 50%
+            h3
+                @include meta
+                text-align: center
+        &-call_to_action
+            .call_to_action,
+            .call_to_action--without-image
+                > div .actions,
+                > div .description
+                    grid-column: 1/13
+                > div .actions a:first-child
+                    margin-left: auto
+                    margin-right: auto
+            .description p
+                font-family: $body-font-family
+                font-size: $body-size
+                @include media-breakpoint-up(desktop)
+                    font-size: $body-size-desktop
+            .actions a:first-child
+                @include gradient-button  
+                transition: transform .3s ease
+                &:hover
+                    @include gradient-button  
+                    transform: scale(1.05)
+            .call_to_action--with-image
+                @include block-background
+                @include block-overlay
+                @include grid(1)
+                padding-bottom: $grid-gutter
+                padding-top: $grid-gutter
+                @include media-breakpoint-up(desktop)
+                    height: 60vh
+                picture
+                    grid-column: unset
+                picture,
+                &::before
+                    left: -$grid-gutter
+                    width: calc(100% + (#{$grid-gutter} * 2))
+                > div
+                    @include reduced-width
+        &-gallery .gallery,
+        &-persons .persons
+            @include reduced-width(7)
+        &-persons .persons
+            @include grid(2)
+            grid-gap: $spacing5
+            column-gap: $spacing5
+        &-testimonials .testimonials
+            figure 
+                padding-right: 0
+                blockquote
+                    padding-top: $spacing1
+
+// SECTIONS
+.full-width.page__home
+    .block-call_to_action
+        background-color: unset
+    .block-gallery
+        .top
+            display: block
+            margin-bottom: $spacing2
+        .gallery
             @include media-breakpoint-up(desktop)
-                font-size: $body-size-desktop
-        .actions a:first-child
-            @include gradient-button
+                @include grid(5)
+    .block-gallery + .block-call_to_action .block-content
+        padding-top: 0
+    .block-testimonials + .block-gallery 
+        margin-bottom: $spacing0
+        .gallery
+            @include grid(3)
+            img
+                border-radius: 0.5rem
+        + .block-gallery 
+            margin-top: 0
+            .gallery
+                @include grid(4)
+                img
+                    border-radius: 0.5rem
+    .block-persons .block-content
+        display: flex
+        flex-direction: column-reverse
+        .top
+            margin-bottom: 0
+            margin-top: $spacing3
