@@ -63,7 +63,8 @@ body.full-width
         text-transform: uppercase
     .block
         .block-content > div > *:not(.video, .call_to_action > div, .block-chapter--accent_background .text, figure, .splide, .person),
-        &-testimonials .testimonials
+        &-testimonials .testimonials,
+        &-persons .persons
             @include reduced-width
         &-chapter 
             font-family: $body-font-family
@@ -132,8 +133,7 @@ body.full-width
                     width: calc(100% + (#{$grid-gutter} * 2))
                 > div
                     @include reduced-width
-        &-gallery .gallery,
-        &-persons .persons
+        &-gallery .gallery
             @include reduced-width(7)
         &-persons .persons
             @include grid(2)
