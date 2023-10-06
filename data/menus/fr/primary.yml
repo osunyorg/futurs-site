@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Les cartes
+  target: ''
+  kind: blank
+  children: []
 - title: Modes de jeu
   target: "/modes-de-jeu/"
   kind: page
@@ -8,9 +12,5 @@ items:
 - title: Actualités
   target: "/actualites/"
   kind: page
-  children: []
-- title: Les cartes
-  target: ''
-  kind: blank
   children: []
 
