@@ -2,8 +2,8 @@
 title: Menu principal
 items:
 - title: Les cartes
-  target: ''
-  kind: blank
+  target: "/les-cartes/"
+  kind: page
   children: []
 - title: Modes de jeu
   target: "/modes-de-jeu/"
