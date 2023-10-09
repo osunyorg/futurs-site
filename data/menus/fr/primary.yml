@@ -13,6 +13,10 @@ items:
     target: "/modes-de-jeu/"
     kind: page
     children: []
+  - title: Foire aux questions
+    target: "/foire-aux-questions/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -27,10 +31,6 @@ items:
     children: []
   - title: Équipe
     target: "/equipe/"
-    kind: page
-    children: []
-  - title: Foire aux questions
-    target: "/foire-aux-questions/"
     kind: page
     children: []
 
