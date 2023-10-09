@@ -13,7 +13,7 @@ items:
     target: "/modes-de-jeu/"
     kind: page
     children: []
-  - title: Questions fréquentes
+  - title: Les questions fréquentes
     target: "/foire-aux-questions/"
     kind: page
     children: []
