@@ -29,8 +29,4 @@ items:
   target: "/equipe/"
   kind: page
   children: []
-- title: À propos
-  target: ''
-  kind: blank
-  children: []
 
