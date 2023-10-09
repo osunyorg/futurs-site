@@ -9,12 +9,20 @@ items:
   target: "/modes-de-jeu/"
   kind: page
   children: []
-- title: Ils parlent de FUTURs
-  target: "/ils-parlent-de-futurs/"
-  kind: page
-  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+- title: À propos
+  target: ''
+  kind: blank
+  children:
+  - title: On parle de FUTURs
+    target: "/ils-parlent-de-futurs/"
+    kind: page
+    children: []
+  - title: Équipe
+    target: "/equipe/"
+    kind: page
+    children: []
 
