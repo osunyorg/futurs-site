@@ -21,12 +21,12 @@ items:
     target: "/ils-parlent-de-futurs/"
     kind: page
     children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: L'équipe
   target: "/equipe/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/actualites/"
   kind: page
   children: []
 
