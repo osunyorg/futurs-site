@@ -17,4 +17,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+- title: À propos
+  target: ''
+  kind: blank
+  children: []
 
