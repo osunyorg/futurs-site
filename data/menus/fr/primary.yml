@@ -25,7 +25,7 @@ items:
   target: "/equipe/"
   kind: page
   children: []
-- title: Actualités
+- title: Les actus
   target: "/actualites/"
   kind: page
   children: []
