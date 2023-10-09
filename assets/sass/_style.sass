@@ -1,8 +1,9 @@
 #document-header
-    .nav-level-1 *
+    .nav-level-2 li  a
+        @include meta
+    .nav-level-1 *,
+    .nav-level-2 li  a
         font-weight: bold
-    .dropdown-menu
-        border-top: 1px solid transparentize(white, .8)
 
 body:not(.full-width) .block-call_to_action .call_to_action > div,
 body:not(.full-width) .block-call_to_action .call_to_action > div::after,   
