@@ -9,7 +9,7 @@ items:
     target: "/les-cartes/"
     kind: page
     children: []
-  - title: Modes de jeu
+  - title: Les modes de jeu
     target: "/modes-de-jeu/"
     kind: page
     children: []
@@ -21,16 +21,16 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+- title: L'équipe
+  target: "/equipe/"
+  kind: page
+  children: []
 - title: À propos
   target: ''
   kind: blank
   children:
   - title: On parle de FUTURs
     target: "/ils-parlent-de-futurs/"
-    kind: page
-    children: []
-  - title: Équipe
-    target: "/equipe/"
     kind: page
     children: []
 
