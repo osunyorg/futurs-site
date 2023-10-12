@@ -5,8 +5,13 @@ external_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
+  - "youtube.com"
   - "www.youtube.com"
+  - "img.youtube.com"
+  - "youtu.be"
+  - "vimeo.com"
   - "player.vimeo.com"
+  - "vumbnail.com"
 social:
   email: >-
     niels@futurs-lejeu.fr
