@@ -11,3 +11,4 @@ fr:
     events: /agenda/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
+    authors: /equipe/:slug/les-actus/
