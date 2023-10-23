@@ -21,7 +21,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: L'équipe et la genèse du jeu
+  - title: Création du jeu
     target: "/equipe/"
     kind: page
     children: []
