@@ -25,6 +25,10 @@ items:
     target: "/ils-parlent-de-futurs/"
     kind: page
     children: []
+  - title: Ateliers de sensibilisation
+    target: "/les-ateliers-de-sensibilisation/"
+    kind: page
+    children: []
 - title: Les actus
   target: "/les-actus/"
   kind: page
