@@ -21,10 +21,10 @@ items:
     target: "/equipe/"
     kind: page
     children: []
-  - title: Les questions fréquentes
-    target: "/foire-aux-questions/"
-    kind: page
-    children: []
+- title: Les questions fréquentes
+  target: "/foire-aux-questions/"
+  kind: page
+  children: []
 - title: Les actus
   target: "/les-actus/"
   kind: page
