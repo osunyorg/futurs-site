@@ -37,4 +37,8 @@ items:
   target: mailto:contact@futurs-lejeu.fr
   kind: url
   children: []
+- title: À propos
+  target: ''
+  kind: blank
+  children: []
 
