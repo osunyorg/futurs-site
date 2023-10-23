@@ -9,6 +9,10 @@ items:
     target: "/les-cartes/"
     kind: page
     children: []
+  - title: Ateliers de sensibilisation
+    target: "/les-ateliers-de-sensibilisation/"
+    kind: page
+    children: []
   - title: Les modes de jeu
     target: "/modes-de-jeu/"
     kind: page
@@ -23,10 +27,6 @@ items:
     children: []
   - title: On parle de FUTURs
     target: "/ils-parlent-de-futurs/"
-    kind: page
-    children: []
-  - title: Ateliers de sensibilisation
-    target: "/les-ateliers-de-sensibilisation/"
     kind: page
     children: []
 - title: Les actus
