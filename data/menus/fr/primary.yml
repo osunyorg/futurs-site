@@ -21,14 +21,6 @@ items:
     target: "/equipe/"
     kind: page
     children: []
-- title: Les actus
-  target: "/les-actus/"
-  kind: page
-  children: []
-- title: Contact
-  target: mailto:contact@futurs-lejeu.fr
-  kind: url
-  children: []
 - title: À propos
   target: ''
   kind: blank
@@ -37,8 +29,16 @@ items:
     target: "/foire-aux-questions/"
     kind: page
     children: []
+  - title: Les actus
+    target: "/les-actus/"
+    kind: page
+    children: []
   - title: On parle de FUTURs
     target: "/ils-parlent-de-futurs/"
     kind: page
+    children: []
+  - title: Contact
+    target: mailto:contact@futurs-lejeu.fr
+    kind: url
     children: []
 
