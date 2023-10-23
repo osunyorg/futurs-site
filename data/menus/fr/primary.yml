@@ -25,10 +25,6 @@ items:
   target: "/foire-aux-questions/"
   kind: page
   children: []
-- title: On parle de FUTURs
-  target: "/ils-parlent-de-futurs/"
-  kind: page
-  children: []
 - title: Les actus
   target: "/les-actus/"
   kind: page
@@ -40,5 +36,9 @@ items:
 - title: À propos
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: On parle de FUTURs
+    target: "/ils-parlent-de-futurs/"
+    kind: page
+    children: []
 
