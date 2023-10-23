@@ -33,10 +33,6 @@ items:
     target: "/les-actus/"
     kind: page
     children: []
-- title: On parle de FUTURs
-  target: "/ils-parlent-de-futurs/"
-  kind: page
-  children: []
 - title: Contact
   target: mailto:contact@futurs-lejeu.fr
   kind: url
