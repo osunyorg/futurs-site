@@ -37,8 +37,8 @@ items:
     target: "/ils-parlent-de-futurs/"
     kind: page
     children: []
-  - title: Contact
-    target: mailto:contact@futurs-lejeu.fr
-    kind: url
-    children: []
+- title: Contact
+  target: mailto:contact@futurs-lejeu.fr
+  kind: url
+  children: []
 
