@@ -1,5 +1,7 @@
 title: >
   Futurs
+default_image:
+  id: 20b7ddf7-0d29-4976-8224-7a5671b13add
 external_domains:
   - "osuny-1b4da.kxcdn.com"
   - "*.osuny.org"
@@ -9,9 +11,6 @@ external_domains:
   - "www.youtube.com"
   - "img.youtube.com"
   - "youtu.be"
-  - "vimeo.com"
-  - "player.vimeo.com"
-  - "vumbnail.com"
 social:
   email: >-
     niels@futurs-lejeu.fr
