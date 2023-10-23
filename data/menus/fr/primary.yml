@@ -21,7 +21,7 @@ items:
     target: "/equipe/"
     kind: page
     children: []
-- title: Les questions fréquentes
+- title: FAQ
   target: "/foire-aux-questions/"
   kind: page
   children: []
