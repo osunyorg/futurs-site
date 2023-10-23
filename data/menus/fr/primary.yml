@@ -13,6 +13,10 @@ items:
     target: "/modes-de-jeu/"
     kind: page
     children: []
+  - title: L'équipe
+    target: "/equipe/"
+    kind: page
+    children: []
   - title: Les questions fréquentes
     target: "/foire-aux-questions/"
     kind: page
@@ -21,10 +25,6 @@ items:
     target: "/ils-parlent-de-futurs/"
     kind: page
     children: []
-- title: L'équipe
-  target: "/equipe/"
-  kind: page
-  children: []
 - title: Les actus
   target: "/les-actus/"
   kind: page
