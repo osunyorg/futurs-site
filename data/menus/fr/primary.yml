@@ -17,10 +17,6 @@ items:
     target: "/les-ateliers-de-sensibilisation/"
     kind: page
     children: []
-  - title: L'équipe
-    target: "/equipe/"
-    kind: page
-    children: []
 - title: À propos
   target: ''
   kind: blank
@@ -37,6 +33,10 @@ items:
     target: "/ils-parlent-de-futurs/"
     kind: page
     children: []
+- title: L'équipe
+  target: "/equipe/"
+  kind: page
+  children: []
 - title: Contact
   target: mailto:contact@futurs-lejeu.fr
   kind: url
