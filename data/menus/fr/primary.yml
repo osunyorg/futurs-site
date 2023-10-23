@@ -5,7 +5,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Les cartes
+  - title: L'inventaire des cartes
     target: "/les-cartes/"
     kind: page
     children: []
