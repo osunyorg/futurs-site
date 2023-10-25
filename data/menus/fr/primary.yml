@@ -34,7 +34,7 @@ items:
     kind: page
     children: []
 - title: Contact
-  target: mailto:contact@futurs-lejeu.fr
-  kind: url
+  target: "/contact/"
+  kind: page
   children: []
 
