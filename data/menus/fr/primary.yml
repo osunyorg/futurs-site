@@ -22,7 +22,7 @@ items:
   kind: blank
   children:
   - title: L'histoire de FUTURs
-    target: "/equipe/"
+    target: "/histoire/"
     kind: page
     children: []
   - title: Les actus
