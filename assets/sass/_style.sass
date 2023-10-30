@@ -11,13 +11,15 @@
     transform-origin: left
     transition: all .3s ease
     
-body:not(.full-width) .block-call_to_action .call_to_action > div,
 body:not(.full-width) .block-call_to_action .call_to_action > div::after,   
 body.full-width .block-call_to_action
     background-image: $gradient
-body:not(.full-width) .block-call_to_action .call_to_action > div,    
 body:not(.full-width) .block-call_to_action .call_to_action > div::after,   
     background-attachment: fixed
+@include media-breakpoint-up(md)
+    body:not(.full-width) .block-call_to_action .call_to_action > div
+        background-image: $gradient
+        background-attachment: fixed
 
 body.full-width .block-call_to_action .call_to_action--without-image div > *:first-child
     &.actions
