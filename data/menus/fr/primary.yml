@@ -37,7 +37,7 @@ items:
   target: "/contact/"
   kind: page
   children: []
-- title: COMMANDER
+- title: Commander FUTURs
   target: commande.futurs-lejeu.fr
   kind: url
   children: []
