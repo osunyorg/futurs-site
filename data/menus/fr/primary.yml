@@ -33,6 +33,10 @@ items:
     target: "/fr/newsletter/"
     kind: page
     children: []
+- title: Commander le jeu
+  target: commande.futurs-lejeu.fr
+  kind: url
+  children: []
 - title: Contact
   target: "/fr/contact/"
   kind: page
