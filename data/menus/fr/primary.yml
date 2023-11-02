@@ -29,10 +29,10 @@ items:
     target: "/foire-aux-questions/"
     kind: page
     children: []
-- title: Newsletter
-  target: "/newslettr/"
-  kind: page
-  children: []
+  - title: Newsletter
+    target: "/newslettr/"
+    kind: page
+    children: []
 - title: Contact
   target: "/contact/"
   kind: page
