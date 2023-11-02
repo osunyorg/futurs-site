@@ -5,8 +5,4 @@ items:
   target: https://fr.ulule.com/futurs-le-jeu/
   kind: url
   children: []
-- title: Instagram
-  target: https://www.instagram.com/futurs_le_jeu/
-  kind: url
-  children: []
 
