@@ -22,6 +22,13 @@
     .block-posts
         .post-meta
             display: none
+        p[itemprop=articleBody]
+            &::after
+                content: "En savoir plus"
+                display: block
+                margin-top: $spacing0
+                @include meta
+                @include link
 
 body:not(.full-width) .block-call_to_action .call_to_action > div::after,   
 body.full-width .block-call_to_action
