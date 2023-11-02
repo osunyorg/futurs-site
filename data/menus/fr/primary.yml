@@ -38,7 +38,7 @@ items:
   kind: page
   children: []
 - title: Commander FUTURs
-  target: commande.futurs-lejeu.fr
+  target: http://commande.futurs-lejeu.fr
   kind: url
   children: []
 
