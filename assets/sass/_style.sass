@@ -13,7 +13,13 @@
                 margin-top: $spacing2
                 transform-origin: left
                 transition: all .3s ease
-    
+
+/* Titres de blocs plus gros */
+.blocks
+    @include media-breakpoint-up(md)
+        .block-title
+            @include h3
+
 body:not(.full-width) .block-call_to_action .call_to_action > div::after,   
 body.full-width .block-call_to_action
     background-image: $gradient
@@ -36,6 +42,7 @@ body.full-width
     color: white
     &[disabled]
         color: transparentize(white, .6)
+
 /* Masquer tout sauf le partage */
 .post-infos
     > li
