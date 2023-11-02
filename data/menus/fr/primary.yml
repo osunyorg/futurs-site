@@ -33,4 +33,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Newsletter
+  target: "/newslettr/"
+  kind: page
+  children: []
 
