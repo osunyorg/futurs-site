@@ -3,6 +3,7 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
+  plausible: futurs-lejeu.fr
   breadcrumb:
     position: after-hero
   search:
