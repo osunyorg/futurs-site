@@ -5,11 +5,14 @@
     .nav-level-2 li  a
         font-weight: bold
         
-.page__home #document-header:not(.is-sticky) .logo img
-    transform: scale(2)
-    margin-top: $spacing2
-    transform-origin: left
-    transition: all .3s ease
+.page__home 
+    #document-header:not(.is-sticky) 
+        .logo 
+            img
+                transform: scale(2)
+                margin-top: $spacing2
+                transform-origin: left
+                transition: all .3s ease
     
 body:not(.full-width) .block-call_to_action .call_to_action > div::after,   
 body.full-width .block-call_to_action
@@ -21,11 +24,31 @@ body:not(.full-width) .block-call_to_action .call_to_action > div::after,
         background-image: $gradient
         background-attachment: fixed
 
-body.full-width .block-call_to_action .call_to_action--without-image div > *:first-child
-    &.actions
-        grid-column: 1/13
+body.full-width 
+    .block-call_to_action 
+        .call_to_action--without-image 
+            div 
+                > *:first-child
+                    &.actions
+                        grid-column: 1/13
 
 .splide__arrows button
     color: white
     &[disabled]
         color: transparentize(white, .6)
+/* Masquer tout sauf le partage */
+.post-infos
+    > li
+        border-top: 0 !important
+        &:not(.social-share)
+            display: none
+
+/* Afficher les cartes */
+.post 
+    .media 
+        img
+            object-fit: contain
+            object-position: left
+
+#document-footer
+    margin-top: $spacing4
