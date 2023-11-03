@@ -12,6 +12,7 @@ external_domains:
   - "www.youtube.com"
   - "img.youtube.com"
   - "youtu.be"
+  - "js.stripe.com"
 social:
   email: >-
     niels@futurs-lejeu.fr
