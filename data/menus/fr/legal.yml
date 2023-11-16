@@ -21,6 +21,10 @@ items:
   target: "/newsletter/"
   kind: page
   children: []
+- title: Foire aux questions
+  target: "/foire-aux-questions/"
+  kind: page
+  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
