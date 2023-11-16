@@ -13,12 +13,12 @@ items:
   target: "/les-ateliers-de-sensibilisation/"
   kind: page
   children: []
-- title: Mentions légales
-  target: "/mentions-legales/"
-  kind: page
-  children: []
 - title: L'histoire de FUTURs
   target: "/histoire/"
+  kind: page
+  children: []
+- title: Mentions légales
+  target: "/mentions-legales/"
   kind: page
   children: []
 
