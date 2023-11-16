@@ -4,27 +4,38 @@
     .nav-level-1 *,
     .nav-level-2 li  a
         font-weight: bold
-    .nav-level-1 > li:last-child
-        a
-            background: $color-accent
-            border-radius: $btn-border-radius
+    .nav-level-1 
+        > li:last-child
+            @include media-breakpoint-down(md)
+                margin-bottom: $spacing1
+                margin-top: $spacing1
+            @include media-breakpoint-up(md)
+                margin-left: $spacing0
+
+#document-header .nav-level-1 > li:last-child,
+#document-footer .footer-legals .nav-level-1 > li:first-child
+    a
+        background: $color-accent
+        border-radius: $btn-border-radius
+        color: $color-background
+        font-weight: bold
+        padding: $spacing0 calc(#{$spacing0} + #{half($spacing0)})
+        text-decoration: none
+        transition: background .3s ease, color .3s ease
+        &::after
+            display: none
+        &:hover,
+        &:focus-visible,
+        &:focus
+            background: $block-call-to-action-button-hover-background
             color: $color-background
-            padding: $spacing0 calc(#{$spacing0} + #{half($spacing0)})
-            text-decoration: none
-            transition: background .3s ease, color .3s ease
-            &::after
-                display: none
-            &:hover,
-            &:focus-visible,
-            &:focus
-                background: $block-call-to-action-button-hover-background
-                color: $color-background
-        @include media-breakpoint-down(md)
-            margin-bottom: $spacing1
-            margin-top: $spacing1
-        @include media-breakpoint-up(md)
-            margin-left: $spacing0
         
+#document-footer
+    margin-top: $spacing4
+    .footer-legals .nav-level-1 
+        > li:first-child
+            margin-bottom: $spacing1
+
 .page__home 
     #document-header:not(.is-sticky) 
         .logo 
@@ -80,6 +91,3 @@ body:not(.full-width) .block-call_to_action .call_to_action > div::after,
         img
             object-fit: contain
             object-position: left
-
-#document-footer
-    margin-top: $spacing4
