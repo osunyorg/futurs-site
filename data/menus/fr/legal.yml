@@ -9,6 +9,10 @@ items:
   target: "/les-cartes/"
   kind: page
   children: []
+- title: Ateliers de sensibilisation
+  target: "/les-ateliers-de-sensibilisation/"
+  kind: page
+  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
