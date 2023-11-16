@@ -17,12 +17,12 @@ items:
   target: "/histoire/"
   kind: page
   children: []
-- title: Mentions légales
-  target: "/mentions-legales/"
-  kind: page
-  children: []
 - title: Newsletter
   target: "/newsletter/"
+  kind: page
+  children: []
+- title: Mentions légales
+  target: "/mentions-legales/"
   kind: page
   children: []
 
