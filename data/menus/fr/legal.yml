@@ -17,4 +17,8 @@ items:
   target: "/mentions-legales/"
   kind: page
   children: []
+- title: L'histoire de FUTURs
+  target: "/histoire/"
+  kind: page
+  children: []
 
