@@ -2,16 +2,6 @@ title: >
   FUTURs
 default_image:
   id: ae0cadb6-e983-42ec-a314-5a3a8742c1a9
-external_domains:
-  - "osuny-1b4da.kxcdn.com"
-  - "*.osuny.org"
-  - "osuny.s3.fr-par.scw.cloud"
-  - "tile.openstreetmap.org"
-  - "plausible.io"
-  - "youtube.com"
-  - "www.youtube.com"
-  - "img.youtube.com"
-  - "youtu.be"
 social:
   email: >-
     niels@futurs-lejeu.fr
