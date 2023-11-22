@@ -4,7 +4,7 @@ baseURL: https://www.futurs-lejeu.fr
 
 ## LANGUAGE
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 ## CACHE
 deployment:
