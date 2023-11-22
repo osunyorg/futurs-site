@@ -6,31 +6,31 @@ items:
   kind: url
   children: []
 - title: Modes de jeu
-  target: "/modes-de-jeu/"
+  target: "/fr/modes-de-jeu/"
   kind: page
   children: []
 - title: Inventaire des cartes
-  target: "/les-cartes/"
+  target: "/fr/les-cartes/"
   kind: page
   children: []
 - title: Ateliers de sensibilisation
-  target: "/les-ateliers-de-sensibilisation/"
+  target: "/fr/les-ateliers-de-sensibilisation/"
   kind: page
   children: []
 - title: L'histoire de FUTURs
-  target: "/histoire/"
+  target: "/fr/histoire/"
   kind: page
   children: []
 - title: Newsletter
-  target: "/newsletter/"
+  target: "/fr/newsletter/"
   kind: page
   children: []
 - title: Foire aux questions
-  target: "/foire-aux-questions/"
+  target: "/fr/foire-aux-questions/"
   kind: page
   children: []
 - title: Mentions légales
-  target: "/mentions-legales/"
+  target: "/fr/mentions-legales/"
   kind: page
   children: []
 
