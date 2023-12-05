@@ -9,6 +9,16 @@ fr:
     categories: /les-actus/:slug/
     posts: /les-actus/:year-:month-:day-:slug/
     events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
     organizations: /organisations/:slug/
     persons: /histoire/:slug/
     authors: /histoire/:slug/les-actus/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    category: categories
+    posts_category: posts_categories
+    events_category: events_categories
+    diploma: diplomas
+    researcher: researchers
+    teacher: teachers
