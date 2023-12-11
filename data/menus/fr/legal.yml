@@ -5,10 +5,6 @@ items:
   target: https://buy.stripe.com/dR628R8SL3uGfv2144
   kind: url
   children: []
-- title: Newsletter
-  target: "/newsletter/"
-  kind: page
-  children: []
 - title: Foire aux questions
   target: "/foire-aux-questions/"
   kind: page
