@@ -1,12 +1,12 @@
 ---
 title: Informations légales
 items:
-- title: Foire aux questions
-  target: "/foire-aux-questions/"
-  kind: page
-  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
+  kind: page
+  children: []
+- title: Foire aux questions
+  target: "/foire-aux-questions/"
   kind: page
   children: []
 - title: Plan du site
