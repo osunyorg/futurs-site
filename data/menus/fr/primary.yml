@@ -37,7 +37,7 @@ items:
   target: "/contact/"
   kind: page
   children: []
-- title: "Commander FUTURs \U0001F385"
+- title: "Commander FUTURs \U0001F381"
   target: https://buy.stripe.com/dR628R8SL3uGfv2144
   kind: url
   children: []
