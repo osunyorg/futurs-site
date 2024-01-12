@@ -10,8 +10,4 @@ allowed_domains:
   - "www.youtube.com"
   - "img.youtube.com"
   - "youtu.be"
-  - "assets.mlcdn.com"
-  - "www.w3.org"
-  - "assets.mailerlite.com"
-  - "groot.mailerlite.com"
   - "drive.google.com"
