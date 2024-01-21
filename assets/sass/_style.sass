@@ -40,6 +40,7 @@
         width: 100%
         h2
             @include h3
+            margin-bottom: $spacing0
         ul li
             @include meta
         .footer-socials
@@ -59,7 +60,7 @@
                     margin-right: $spacing0
     @include media-breakpoint-down(desktop)
         .footer-menu
-            ul + ul
+            > div + div
                 margin-top: $spacing2
 .page__home 
     #document-header:not(.is-sticky) 
