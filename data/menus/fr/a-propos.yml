@@ -5,4 +5,8 @@ items:
   target: "/histoire/"
   kind: page
   children: []
+- title: Foire aux questions
+  target: "/foire-aux-questions/"
+  kind: page
+  children: []
 
