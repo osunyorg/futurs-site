@@ -9,4 +9,8 @@ items:
   target: "/foire-aux-questions/"
   kind: page
   children: []
+- title: Newsletter
+  target: "/newsletter/"
+  kind: page
+  children: []
 
