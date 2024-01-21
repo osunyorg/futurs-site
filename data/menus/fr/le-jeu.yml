@@ -1,4 +1,8 @@
 ---
 title: Le jeu
-items: []
+items:
+- title: Modes de jeu
+  target: "/modes-de-jeu/"
+  kind: page
+  children: []
 
