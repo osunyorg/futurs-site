@@ -5,4 +5,8 @@ items:
   target: "/modes-de-jeu/"
   kind: page
   children: []
+- title: Inventaire des cartes
+  target: "/les-cartes/"
+  kind: page
+  children: []
 
