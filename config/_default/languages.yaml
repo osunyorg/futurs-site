@@ -5,6 +5,12 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  params:
+    social:
+      email: >-
+        niels@futurs-lejeu.fr
+      instagram: >-
+        https://www.instagram.com/futurs_le_jeu/
   permalinks:
     posts: /les-actus/:year-:month-:day-:slug/
     posts_categories: /les-actus/:slug/
