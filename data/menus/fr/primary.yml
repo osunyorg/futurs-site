@@ -41,4 +41,8 @@ items:
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
   children: []
+- title: Offre entreprise
+  target: "/offre-entreprise/"
+  kind: page
+  children: []
 
