@@ -33,6 +33,10 @@ items:
     target: "/newsletter/"
     kind: page
     children: []
+- title: Offre entreprise
+  target: "/offre-entreprise/"
+  kind: page
+  children: []
 - title: Contact
   target: "/contact/"
   kind: page
@@ -40,9 +44,5 @@ items:
 - title: "Commander FUTURs \U0001F381"
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
-  children: []
-- title: Offre entreprise
-  target: "/offre-entreprise/"
-  kind: page
   children: []
 
