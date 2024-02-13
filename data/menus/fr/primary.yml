@@ -13,9 +13,9 @@ items:
   target: "/les-ateliers-de-sensibilisation/"
   kind: page
   children: []
-- title: Le jeu
-  target: ''
-  kind: blank
+- title: Offre entreprise
+  target: "/offre-entreprise/"
+  kind: page
   children: []
 - title: À propos
   target: ''
@@ -33,10 +33,6 @@ items:
     target: "/newsletter/"
     kind: page
     children: []
-- title: Offre entreprise
-  target: "/offre-entreprise/"
-  kind: page
-  children: []
 - title: Contact
   target: "/contact/"
   kind: page
