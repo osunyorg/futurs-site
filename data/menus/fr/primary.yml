@@ -37,4 +37,8 @@ items:
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
   children: []
+- title: Ressources
+  target: "/les-ateliers-de-sensibilisation/"
+  kind: page
+  children: []
 
