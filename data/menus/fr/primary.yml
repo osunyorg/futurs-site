@@ -29,14 +29,14 @@ items:
     target: "/foire-aux-questions/"
     kind: page
     children: []
+  - title: Contact
+    target: "/contact/"
+    kind: page
+    children: []
   - title: Newsletter
     target: "/newsletter/"
     kind: page
     children: []
-- title: Contact
-  target: "/contact/"
-  kind: page
-  children: []
 - title: "Commander FUTURs \U0001F381"
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
