@@ -9,10 +9,6 @@ items:
   target: "/les-cartes/"
   kind: page
   children: []
-- title: Ressources
-  target: "/les-ateliers-de-sensibilisation/"
-  kind: page
-  children: []
 - title: Offre entreprise
   target: "/offre-entreprise/"
   kind: page
