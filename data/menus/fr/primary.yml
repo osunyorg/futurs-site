@@ -9,7 +9,7 @@ items:
   target: "/les-cartes/"
   kind: page
   children: []
-- title: Ateliers
+- title: Ressources
   target: "/les-ateliers-de-sensibilisation/"
   kind: page
   children: []
