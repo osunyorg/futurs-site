@@ -5,14 +5,18 @@ items:
   target: "/modes-de-jeu/"
   kind: page
   children: []
+- title: L'inventaire des cartes
+  target: "/les-cartes/"
+  kind: page
+  children: []
+- title: Ateliers de sensibilisation
+  target: "/les-ateliers-de-sensibilisation/"
+  kind: page
+  children: []
 - title: Le jeu
   target: ''
   kind: blank
-  children:
-  - title: Ateliers de sensibilisation
-    target: "/les-ateliers-de-sensibilisation/"
-    kind: page
-    children: []
+  children: []
 - title: À propos
   target: ''
   kind: blank
