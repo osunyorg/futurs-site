@@ -2,15 +2,15 @@
 title: Le jeu
 items:
 - title: Règles du jeu
-  target: "/modes-de-jeu/"
+  target: "/fr/modes-de-jeu/"
   kind: page
   children: []
 - title: Inventaire des cartes
-  target: "/les-cartes/"
+  target: "/fr/les-cartes/"
   kind: page
   children: []
 - title: Ressources pédagogiques
-  target: "/les-ateliers-de-sensibilisation/"
+  target: "/fr/les-ateliers-de-sensibilisation/"
   kind: page
   children: []
 

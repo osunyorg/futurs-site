@@ -2,15 +2,15 @@
 title: À propos
 items:
 - title: L'histoire de FUTURs
-  target: "/histoire/"
+  target: "/fr/histoire/"
   kind: page
   children: []
 - title: Foire aux questions
-  target: "/foire-aux-questions/"
+  target: "/fr/foire-aux-questions/"
   kind: page
   children: []
 - title: Newsletter
-  target: "/newsletter/"
+  target: "/fr/newsletter/"
   kind: page
   children: []
 
