@@ -1,10 +1,6 @@
 ---
 title: Main menu
 items:
-- title: Team
-  target: "/en/team/"
-  kind: page
-  children: []
 - title: Actualités
   target: "/en/actualites/"
   kind: page
