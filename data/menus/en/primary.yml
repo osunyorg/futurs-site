@@ -17,10 +17,6 @@ items:
   target: "/en/organisations/"
   kind: page
   children: []
-- title: Actualités
-  target: "/en/actualites-1/"
-  kind: page
-  children: []
 - title: The card game empowering citizens to imagine the future
   target: "/en/futurs-the-cardgame-empowering-citizens-to-imagine-the-future/"
   kind: page
