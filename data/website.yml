@@ -1,7 +1,8 @@
 title: >
   FUTURs
-default_image:
-  id: ae0cadb6-e983-42ec-a314-5a3a8742c1a9
+default:
+  image:
+    id: ae0cadb6-e983-42ec-a314-5a3a8742c1a9
 social:
   email: >-
     niels@futurs-lejeu.fr
