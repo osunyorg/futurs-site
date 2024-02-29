@@ -7,10 +7,10 @@
     .nav-level-1 
         > li:last-child
             @include media-breakpoint-down(md)
-                margin-bottom: $spacing1
-                margin-top: $spacing1
+                margin-bottom: $spacing-3
+                margin-top: $spacing-3
             @include media-breakpoint-up(md)
-                margin-left: $spacing0
+                margin-left: $spacing-2
 
 #document-header .nav-level-1 > li:last-child,
 #document-footer .footer-menu .footer-socials li:last-child
@@ -19,7 +19,7 @@
         border-radius: $btn-border-radius
         color: $color-background
         font-weight: bold
-        padding: $spacing0 calc(#{$spacing0} + #{half($spacing0)})
+        padding: $spacing-2 calc(#{$spacing-2} + #{$spacing-1})
         text-decoration: none
         transition: background .3s ease, color .3s ease
         &::after
@@ -36,7 +36,7 @@ html.has-menu-opened
                 color: $color-background
         
 #document-footer
-    margin-top: $spacing4
+    margin-top: $spacing-6
     .container:first-of-type
         padding-bottom: 0
     .footer-menu
@@ -45,34 +45,34 @@ html.has-menu-opened
         width: 100%
         h2
             @include h3
-            margin-bottom: $spacing0
+            margin-bottom: $spacing-2
         ul li
             @include meta
         .footer-socials
             li:last-child
-                margin-top: $spacing1
+                margin-top: $spacing-3
     @include media-breakpoint-up(md)
         .footer-legals
             ul,
             &
                 display: flex
-                gap: $spacing0
+                gap: $spacing-2
             small, 
             li + li
                 margin: 0
                 &::before
                     content: '•'
-                    margin-right: $spacing0
+                    margin-right: $spacing-2
     @include media-breakpoint-down(desktop)
         .footer-menu
             > div + div
-                margin-top: $spacing2
+                margin-top: $spacing-4
 .page__home 
     #document-header:not(.is-sticky) 
         .logo 
             img
                 transform: scale(2)
-                margin-top: $spacing2
+                margin-top: $spacing-4
                 transform-origin: left
                 transition: all .3s ease
     footer#document-footer
@@ -90,7 +90,7 @@ html.has-menu-opened
             &::after
                 content: "En savoir plus"
                 display: block
-                margin-top: $spacing0
+                margin-top: $spacing-2
                 @include meta
                 @include link
 
