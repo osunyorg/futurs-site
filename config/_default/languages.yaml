@@ -18,7 +18,9 @@ en:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     organizations: /organisations/:slug/
+    organizations_categories: /organisations/:slug/
     persons: /team/:slug/
+    persons_categories: /team/:slug/
     authors: /team/:slug/actualites-1/
   taxonomies:
     administrator: administrators
@@ -26,6 +28,8 @@ en:
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
@@ -49,7 +53,9 @@ fr:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     organizations: /organisations/:slug/
+    organizations_categories: /organisations/:slug/
     persons: /histoire/:slug/
+    persons_categories: /histoire/:slug/
     authors: /histoire/:slug/les-actus/
   taxonomies:
     administrator: administrators
@@ -57,6 +63,8 @@ fr:
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
