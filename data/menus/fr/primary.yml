@@ -13,10 +13,6 @@ items:
   target: "/fr/ressources-pedagogiques/"
   kind: page
   children: []
-- title: Offre entreprise
-  target: "/fr/offre-entreprise/"
-  kind: page
-  children: []
 - title: À propos
   target: ''
   kind: blank
