@@ -9,7 +9,7 @@ items:
   target: "/fr/les-cartes/"
   kind: page
   children: []
-- title: Ressources
+- title: Ressources pédagogiques
   target: "/fr/ressources-pedagogiques/"
   kind: page
   children: []
