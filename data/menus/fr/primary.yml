@@ -9,7 +9,7 @@ items:
   target: "/fr/les-cartes/"
   kind: page
   children: []
-- title: Espace pédagogique
+- title: Ressources pédagogiques
   target: "/fr/modes-de-jeu-educatifs/"
   kind: page
   children:
