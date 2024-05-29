@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: Espace pédagogique
-  target: "/fr/ressources-pedagogiques/"
+  target: "/fr/modes-de-jeu-educatifs/"
   kind: page
   children:
   - title: Atelier « Le Conseil du Futur »
