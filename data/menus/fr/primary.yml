@@ -13,14 +13,14 @@ items:
   target: "/fr/ressources-pedagogiques/"
   kind: page
   children:
+  - title: Atelier « Le Conseil du Futur »
+    target: ''
+    kind: blank
+    children: []
   - title: Modes de jeu complémentaires
     target: ''
     kind: url
     children: []
-- title: Atelier « Le Conseil du Futur »
-  target: ''
-  kind: blank
-  children: []
 - title: À propos
   target: ''
   kind: blank
