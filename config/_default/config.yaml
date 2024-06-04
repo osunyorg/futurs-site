@@ -15,6 +15,7 @@ params:
     default_image: true
     index:
       layout: grid
-      show_categories: false
+      options:
+        hide_category: true
   debug:
      productionUrl: "https://www.futurs-lejeu.fr"
