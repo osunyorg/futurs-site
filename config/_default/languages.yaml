@@ -18,9 +18,9 @@ en:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /team/:slug/
-    persons_categories: /team/:slug/
+    persons_categories: /team/categories/:slug/
     authors: /team/:slug/actualites-1/
   taxonomies:
     administrator: administrators
@@ -53,9 +53,9 @@ fr:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /histoire/:slug/
-    persons_categories: /histoire/:slug/
+    persons_categories: /histoire/categories/:slug/
     authors: /histoire/:slug/les-actus/
   taxonomies:
     administrator: administrators
