@@ -16,6 +16,6 @@ params:
     index:
       layout: grid
       options:
-        hide_category: true
+        categories: false
   debug:
-     productionUrl: "https://www.futurs-lejeu.fr"
+    productionUrl: "https://www.futurs-lejeu.fr"
