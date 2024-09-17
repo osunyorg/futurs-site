@@ -1,4 +1,8 @@
 ---
 title: Legal
-items: []
+items:
+- title: Team
+  target: "/en/team/"
+  kind: page
+  children: []
 
