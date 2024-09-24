@@ -21,6 +21,10 @@ items:
     target: "/fr/ateliers-de-sensibilisation/"
     kind: page
     children: []
+  - title: Atelier « Le Conseil du Futur »
+    target: "/fr/ateliers-de-sensibilisation-le-conseil-du-futur/"
+    kind: page
+    children: []
 - title: À propos
   target: ''
   kind: blank
