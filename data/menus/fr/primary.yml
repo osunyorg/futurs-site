@@ -13,16 +13,16 @@ items:
   target: ''
   kind: blank
   children:
+  - title: Atelier « Le Conseil du Futur »
+    target: "/fr/ateliers-de-sensibilisation-le-conseil-du-futur/"
+    kind: page
+    children: []
   - title: Modes de jeu complémentaires
     target: "/fr/modes-de-jeu-educatifs/"
     kind: page
     children: []
   - title: Atelier « Rebattre les cartes »
     target: "/fr/ateliers-de-sensibilisation/"
-    kind: page
-    children: []
-  - title: Atelier « Le Conseil du Futur »
-    target: "/fr/ateliers-de-sensibilisation-le-conseil-du-futur/"
     kind: page
     children: []
 - title: À propos
