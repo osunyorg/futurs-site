@@ -21,10 +21,6 @@ items:
     target: "/fr/modes-de-jeu-educatifs/"
     kind: page
     children: []
-  - title: Atelier « Rebattre les cartes »
-    target: "/fr/ateliers-de-sensibilisation/"
-    kind: page
-    children: []
 - title: À propos
   target: ''
   kind: blank
