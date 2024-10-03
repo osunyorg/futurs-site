@@ -12,7 +12,7 @@
             @include media-breakpoint-up(md)
                 margin-left: $spacing-2
 
-#document-header .nav-level-1 > li:last-child,
+#document-header .nav-level-1 > li:nth-last-child(2),
 #document-footer .footer-menu .footer-socials li:last-child
     a
         background: $color-accent
@@ -29,10 +29,20 @@
         &:focus
             background: $block-call-to-action-accent-button-hover-background
             color: $color-background
+
+// Header
+#document-header .nav-level-1
+    @include media-breakpoint-down(md)
+        > li:nth-last-child(3),
+        > li:nth-last-child(2)
+            border: none
+            + .header-i18n
+                margin-top: 0
+
 html.has-menu-opened
     header#document-header
         .nav-level-1 
-            > li:last-child
+            > li:nth-last-child(2)
                 color: $color-background
         
 #document-footer
@@ -53,16 +63,16 @@ html.has-menu-opened
                 margin-top: $spacing-3
     @include media-breakpoint-up(md)
         .footer-legals
-            ul,
+            ul:not(.dropdown-menu),
             &
                 display: flex
                 gap: $spacing-2
-            small, 
-            li + li
-                margin: 0
-                &::before
-                    content: '•'
-                    margin-right: $spacing-2
+                + .footer-credit, 
+                li + li
+                    margin: 0
+                    &::before
+                        content: '•'
+                        margin-right: $spacing-2
     @include media-breakpoint-down(desktop)
         .footer-menu
             > div + div
