@@ -10,4 +10,5 @@ allowed_domains:
   - "www.youtube.com"
   - "img.youtube.com"
   - "youtu.be"
+  - "js.stripe.com"
   - "drive.google.com"
