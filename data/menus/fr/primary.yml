@@ -33,16 +33,16 @@ items:
     target: "/fr/foire-aux-questions/"
     kind: page
     children: []
+  - title: Offre de personnalisation Entreprise
+    target: "/fr/offre-entreprise/"
+    kind: page
+    children: []
   - title: Newsletter
     target: "/fr/newsletter/"
     kind: page
     children: []
   - title: Contact
     target: "/fr/contact/"
-    kind: page
-    children: []
-  - title: Offre de personnalisation Entreprise
-    target: "/fr/offre-entreprise/"
     kind: page
     children: []
 - title: "Acheter \U0001F4E6"
