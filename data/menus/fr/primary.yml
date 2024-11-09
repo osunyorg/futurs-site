@@ -41,6 +41,10 @@ items:
     target: "/fr/contact/"
     kind: page
     children: []
+  - title: Offre de personnalisation Entreprise
+    target: "/fr/offre-entreprise/"
+    kind: page
+    children: []
 - title: "Acheter \U0001F4E6"
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
