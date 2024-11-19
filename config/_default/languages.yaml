@@ -21,7 +21,6 @@ fr:
     organizations_categories: /organisations/categories/:slug/
     persons: /histoire/:slug/
     persons_categories: /histoire/categories/:slug/
-    authors: /histoire/:slug/les-actus/
   taxonomies:
     administrator: administrators
     author: authors
@@ -56,7 +55,6 @@ en:
     organizations_categories: /organisations/categories/:slug/
     persons: /team/:slug/
     persons_categories: /team/categories/:slug/
-    authors: /team/:slug/actualites-1/
   taxonomies:
     administrator: administrators
     author: authors
