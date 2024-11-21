@@ -13,8 +13,6 @@ fr:
       instagram: >-
         https://www.instagram.com/futurs_le_jeu/
   permalinks:
-    events: /agenda/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
     posts: /les-actus/:year-:month-:day-:slug/
     posts_categories: /les-actus/:slug/
     organizations: /organisations/:slug/
@@ -47,8 +45,6 @@ en:
       instagram: >-
         https://www.instagram.com/futurs_le_jeu/
   permalinks:
-    events: /agenda/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
     posts: /actualites-1/:year-:month-:day-:slug/
     posts_categories: /actualites-1/:slug/
     organizations: /organisations/:slug/
