@@ -45,7 +45,7 @@ items:
     target: "/fr/contact/"
     kind: page
     children: []
-- title: "Acheter \U0001F4E6"
+- title: "Commander le jeu \U0001F4E6"
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
   children: []
