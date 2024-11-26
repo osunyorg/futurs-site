@@ -5,10 +5,12 @@ items:
   target: "/fr/modes-de-jeu/"
   kind: page
   children: []
+  file: content/fr/pages/modes-de-jeu/_index.html
 - title: Cartes
   target: "/fr/les-cartes/"
   kind: page
   children: []
+  file: content/fr/pages/les-cartes/_index.html
 - title: Ressources pédagogiques
   target: ''
   kind: blank
@@ -17,10 +19,13 @@ items:
     target: "/fr/ateliers-de-sensibilisation-le-conseil-du-futur/"
     kind: page
     children: []
+    file: content/fr/pages/ateliers-de-sensibilisation-le-conseil-du-futur/_index.html
   - title: Modes de jeu complémentaires
     target: "/fr/modes-de-jeu-educatifs/"
     kind: page
     children: []
+    file: content/fr/pages/modes-de-jeu-educatifs/_index.html
+  file: content/fr/pages/modes-de-jeu-educatifs/_index.html
 - title: À propos
   target: ''
   kind: blank
@@ -29,22 +34,27 @@ items:
     target: "/fr/histoire/"
     kind: page
     children: []
+    file: content/fr/persons/_index.html
   - title: FAQ
     target: "/fr/foire-aux-questions/"
     kind: page
     children: []
+    file: content/fr/pages/foire-aux-questions/_index.html
   - title: Offre de personnalisation Entreprise
     target: "/fr/offre-entreprise/"
     kind: page
     children: []
+    file: content/fr/pages/offre-entreprise/_index.html
   - title: Newsletter
     target: "/fr/newsletter/"
     kind: page
     children: []
+    file: content/fr/pages/newsletter/_index.html
   - title: Contact
     target: "/fr/contact/"
     kind: page
     children: []
+    file: content/fr/pages/contact/_index.html
 - title: "Commander le jeu \U0001F4E6"
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
