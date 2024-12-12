@@ -30,7 +30,7 @@ items:
     kind: page
     children: []
     file: content/fr/pages/foire-aux-questions/_index.html
-  - title: Offre de personnalisation Entreprise
+  - title: Personnalisation du jeu
     target: "/fr/offre-entreprise/"
     kind: page
     children: []
