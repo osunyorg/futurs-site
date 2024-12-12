@@ -11,7 +11,7 @@ items:
   kind: page
   children: []
   file: content/fr/pages/les-cartes/_index.html
-- title: Atelier
+- title: Atelier « Le Conseil du Futur »
   target: "/fr/ateliers-de-sensibilisation-le-conseil-du-futur/"
   kind: page
   children: []
