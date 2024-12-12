@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Règles
+- title: Règles du jeu
   target: "/fr/modes-de-jeu/"
   kind: page
   children: []
