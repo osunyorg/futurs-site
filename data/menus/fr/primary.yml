@@ -16,16 +16,6 @@ items:
   kind: page
   children: []
   file: content/fr/pages/ateliers-de-sensibilisation-le-conseil-du-futur/_index.html
-- title: Ressources pédagogiques
-  target: ''
-  kind: blank
-  children:
-  - title: Modes de jeu complémentaires
-    target: "/fr/modes-de-jeu-educatifs/"
-    kind: page
-    children: []
-    file: content/fr/pages/modes-de-jeu-educatifs/_index.html
-  file: content/fr/pages/modes-de-jeu-educatifs/_index.html
 - title: À propos
   target: ''
   kind: blank
@@ -55,6 +45,16 @@ items:
     kind: page
     children: []
     file: content/fr/pages/contact/_index.html
+- title: Ressources pédagogiques
+  target: ''
+  kind: blank
+  children:
+  - title: Modes de jeu complémentaires
+    target: "/fr/modes-de-jeu-educatifs/"
+    kind: page
+    children: []
+    file: content/fr/pages/modes-de-jeu-educatifs/_index.html
+  file: content/fr/pages/modes-de-jeu-educatifs/_index.html
 - title: "Commander le jeu \U0001F4E6"
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
