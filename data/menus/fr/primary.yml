@@ -50,11 +50,6 @@ items:
     kind: page
     children: []
     file: content/fr/pages/contact/_index.html
-- title: Ressources pédagogiques
-  target: ''
-  kind: blank
-  children: []
-  file: content/fr/pages/modes-de-jeu-educatifs/_index.html
 - title: "Commander le jeu \U0001F4E6"
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
