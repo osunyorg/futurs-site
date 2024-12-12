@@ -35,11 +35,6 @@ items:
     kind: page
     children: []
     file: content/fr/pages/offre-entreprise/_index.html
-  - title: Modes de jeu complémentaires
-    target: "/fr/modes-de-jeu-educatifs/"
-    kind: page
-    children: []
-    file: content/fr/pages/modes-de-jeu-educatifs/_index.html
   - title: Newsletter
     target: "/fr/newsletter/"
     kind: page
