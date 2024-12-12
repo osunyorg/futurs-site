@@ -35,6 +35,11 @@ items:
     kind: page
     children: []
     file: content/fr/pages/offre-entreprise/_index.html
+  - title: Modes de jeu complémentaires
+    target: "/fr/modes-de-jeu-educatifs/"
+    kind: page
+    children: []
+    file: content/fr/pages/modes-de-jeu-educatifs/_index.html
   - title: Newsletter
     target: "/fr/newsletter/"
     kind: page
@@ -48,12 +53,7 @@ items:
 - title: Ressources pédagogiques
   target: ''
   kind: blank
-  children:
-  - title: Modes de jeu complémentaires
-    target: "/fr/modes-de-jeu-educatifs/"
-    kind: page
-    children: []
-    file: content/fr/pages/modes-de-jeu-educatifs/_index.html
+  children: []
   file: content/fr/pages/modes-de-jeu-educatifs/_index.html
 - title: "Commander le jeu \U0001F4E6"
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
