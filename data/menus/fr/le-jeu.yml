@@ -5,15 +5,18 @@ items:
   target: "/fr/modes-de-jeu/"
   kind: page
   children: []
+  path: "/pages/modes-de-jeu"
   file: content/fr/pages/modes-de-jeu/_index.html
 - title: Inventaire des cartes
   target: "/fr/les-cartes/"
   kind: page
   children: []
+  path: "/pages/les-cartes"
   file: content/fr/pages/les-cartes/_index.html
 - title: Ressources pédagogiques
   target: "/fr/modes-de-jeu-educatifs/"
   kind: page
   children: []
+  path: "/pages/modes-de-jeu-educatifs"
   file: content/fr/pages/modes-de-jeu-educatifs/_index.html
 

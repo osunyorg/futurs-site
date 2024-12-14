@@ -5,15 +5,18 @@ items:
   target: "/fr/histoire/"
   kind: page
   children: []
+  path: "/persons"
   file: content/fr/persons/_index.html
 - title: Foire aux questions
   target: "/fr/foire-aux-questions/"
   kind: page
   children: []
+  path: "/pages/foire-aux-questions"
   file: content/fr/pages/foire-aux-questions/_index.html
 - title: Newsletter
   target: "/fr/newsletter/"
   kind: page
   children: []
+  path: "/pages/newsletter"
   file: content/fr/pages/newsletter/_index.html
 
