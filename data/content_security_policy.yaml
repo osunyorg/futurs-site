@@ -12,5 +12,6 @@ allowed_domains:
   - "youtu.be"
   - "youtube-nocookie.com"
   - "www.youtube-nocookie.com"
+  - "www.instagram.com"
   - "js.stripe.com"
   - "drive.google.com"
