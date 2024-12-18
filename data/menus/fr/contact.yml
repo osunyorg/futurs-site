@@ -4,9 +4,11 @@ items:
 - title: Suivez FUTURs sur Instagram
   target: https://www.instagram.com/futurs_le_jeu/
   kind: url
+  new_tab: true
   children: []
 - title: Commander FUTURs
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
+  new_tab: true
   children: []
 

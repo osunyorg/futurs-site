@@ -4,57 +4,67 @@ items:
 - title: Règles du jeu
   target: "/fr/modes-de-jeu/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/modes-de-jeu"
   file: content/fr/pages/modes-de-jeu/_index.html
 - title: Cartes
   target: "/fr/les-cartes/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/les-cartes"
   file: content/fr/pages/les-cartes/_index.html
 - title: Atelier « Le Conseil du Futur »
   target: "/fr/ateliers-de-sensibilisation-le-conseil-du-futur/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/ateliers-de-sensibilisation-le-conseil-du-futur"
   file: content/fr/pages/ateliers-de-sensibilisation-le-conseil-du-futur/_index.html
 - title: À propos
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: L'histoire de FUTURs
     target: "/fr/histoire/"
     kind: page
+    new_tab: false
     children: []
     path: "/persons"
     file: content/fr/persons/_index.html
   - title: Foire aux Questions
     target: "/fr/foire-aux-questions/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/foire-aux-questions"
     file: content/fr/pages/foire-aux-questions/_index.html
   - title: Personnalisation du jeu
     target: "/fr/offre-entreprise/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/offre-entreprise"
     file: content/fr/pages/offre-entreprise/_index.html
   - title: Newsletter
     target: "/fr/newsletter/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/newsletter"
     file: content/fr/pages/newsletter/_index.html
   - title: Contact
     target: "/fr/contact/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/contact"
     file: content/fr/pages/contact/_index.html
 - title: "Commander le jeu \U0001F385 \U0001F381"
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
+  new_tab: true
   children: []
 

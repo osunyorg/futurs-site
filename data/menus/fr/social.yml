@@ -4,5 +4,6 @@ items:
 - title: Ulule
   target: https://fr.ulule.com/futurs-le-jeu/
   kind: url
+  new_tab: true
   children: []
 
