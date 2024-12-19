@@ -62,6 +62,11 @@ items:
     children: []
     path: "/pages/contact"
     file: content/fr/pages/contact/_index.html
+  - title: Ressources pédagogiques
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
 - title: "Commander le jeu \U0001F385 \U0001F381"
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
