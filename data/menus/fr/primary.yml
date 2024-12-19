@@ -28,12 +28,12 @@ items:
   new_tab: false
   children:
   - title: Ressources pédagogiques
-    target: "/fr/modes-de-jeu-educatifs/"
+    target: "/fr/ressources-pedagogique-enseignants-parents/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/modes-de-jeu-educatifs"
-    file: content/fr/pages/modes-de-jeu-educatifs/_index.html
+    path: "/pages/ressources-pedagogique-enseignants-parents"
+    file: content/fr/pages/ressources-pedagogique-enseignants-parents/_index.html
   - title: L'histoire de FUTURs
     target: "/fr/histoire/"
     kind: page
