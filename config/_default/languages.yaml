@@ -22,6 +22,7 @@ fr:
             https://instagram.com/futurs_le_jeu
 
   permalinks:
+    pages_categories: /:slug/
     posts: /les-actus/:year-:month-:day-:slug/
     posts_categories: /les-actus/:slug/
     organizations: /organisations/:slug/
@@ -36,6 +37,7 @@ fr:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
@@ -64,6 +66,7 @@ en:
             https://instagram.com/futurs_le_jeu
 
   permalinks:
+    pages_categories: /:slug/
     posts: /actualites-1/:year-:month-:day-:slug/
     posts_categories: /actualites-1/:slug/
     organizations: /organisations/:slug/
@@ -78,6 +81,7 @@ en:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
