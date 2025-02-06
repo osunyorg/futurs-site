@@ -1,18 +1,25 @@
 ---
-title: >-
-  L'histoire de FUTURs
 breadcrumb_title: >-
+  L'histoire de FUTURs
+title: >-
   L'histoire de FUTURs
 url: "/fr/histoire/"
 slug: "histoire"
 aliases:
   - /equipe/
   - /histoire/
-hugo:
-  permalink: "/fr/histoire/"
-  file: "content/fr/persons/_index.html"
-  path: "/fr/histoire/"
-  slug: "histoire"
+date: 2023-11-29T11:28:50+01:00
+lastmod: 2024-09-30T10:57:28+02:00
+meta:
+  hugo:
+    permalink: "/fr/histoire/"
+    path: "/persons"
+    file: "content/fr/persons/_index.html"
+    slug: "histoire"
+  dates:
+    created_at: 2023-10-05T15:51:18+02:00
+    updated_at: 2024-09-30T10:57:28+02:00
+    published_at: 2023-11-29T11:28:50+01:00
 
 breadcrumbs:
   - title: >-
@@ -21,7 +28,6 @@ breadcrumbs:
   - title: >-
       L'histoire de FUTURs
 
-full_width: false
 design:
   full_width: false
   toc:
@@ -35,12 +41,13 @@ has:
   teachers: 
 position: 2
 weight: 2
+
 translationKey: communication-website-page-1fff6d25-0692-466b-89c3-238f6d5c4dac
 
 bodyclass: >-
-  
+   
 image:
-  id: "39a48042-481b-4c84-8270-41737e057192"
+  id: "77f03208-a094-46d6-963e-e659dc90d75a"
   alt: ""
   credit: >-
     
@@ -48,11 +55,9 @@ image:
 
 meta_description: >-
   
-description: >-
-  
 
 summary: >-
-  Découvrez la genèse du jeu et les individus ayant créé et illustré FUTURs.
+  <p>Découvrez la genèse du jeu et les individus ayant créé et illustré FUTURs.</p>
 
 header_text: >-
   
@@ -61,23 +66,43 @@ header_cta:
   label: >-
     
   target: ""
+  external: false
+section_taxonomies:
+
 contents_reading_time:
-  seconds: 203
+  seconds: 103
   text: >-
-    3 minutes
+    2 minutes
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       La genèse du jeu
-    slug: "la-genese-du-jeu"
-    position: 0
-    rank: 2
+    slug: >-
+      la-genese-du-jeu
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          La genèse du jeu
+        heading: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      base: 3
+    top:
+      active: false
     data:
       layout: no_background
       text: >-
@@ -99,17 +124,28 @@ contents:
     template: video
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      base: 3
+    top:
+      active: false
     data:
+      description: >-
+        
+
       url: >-
         https://youtu.be/az-N5kzRh8c
 
       video_title: >-
         FUTURs - l'histoire de l'initiative
 
+      layout: player
+      transcription: >-
+        
+
       video_iframe: >-
-        <iframe class="youtube" loading="lazy" src="https://www.youtube.com/embed/az-N5kzRh8c" title="FUTURs - l'histoire de l'initiative"></iframe>
+        <iframe class="youtube" loading="lazy" src="https://www.youtube-nocookie.com/embed/az-N5kzRh8c" title="FUTURs - l'histoire de l'initiative"></iframe>
       video: 
         platform: "youtube"
         identifier: "az-N5kzRh8c"
@@ -118,69 +154,106 @@ contents:
         poster: >-
           https://img.youtube.com/vi/az-N5kzRh8c/hqdefault.jpg
         embed: >-
-          https://www.youtube.com/embed/az-N5kzRh8c
+          https://www.youtube-nocookie.com/embed/az-N5kzRh8c
         embed_with_defaults: >-
-          https://www.youtube.com/embed/az-N5kzRh8c?autoplay=1&amp;modestbranding=1&amp;rel=0
+          https://www.youtube-nocookie.com/embed/az-N5kzRh8c?autoplay=1&modestbranding=1&rel=0
         iframe: >-
-          <iframe class="youtube" loading="lazy" src="https://www.youtube.com/embed/az-N5kzRh8c" title="FUTURs - l'histoire de l'initiative"></iframe>
-      transcription: >-
-        
+          <iframe class="youtube" loading="lazy" src="https://www.youtube-nocookie.com/embed/az-N5kzRh8c" title="FUTURs - l'histoire de l'initiative"></iframe>
 
 
-
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Le créateur et l'illustratrice
-    slug: "le-createur-et-l-illustratrice"
-    position: 1
-    rank: 2
+    slug: >-
+      le-createur-et-l-illustratrice
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Le créateur et l'illustratrice
+        heading: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      base: 3
       children: 3
+    top:
+      active: true
+      description: >-
+        <p>Niels et Mélanie ont œuvré à la réalisation de FUTURs.</p>
     data:
       description: >-
         <p>Niels et Mélanie ont œuvré à la réalisation de FUTURs.</p>
 
-      with_link: true
-      with_photo: true
+      layout: grid
       options:
         image: true
         summary: true
         link: true
+        contact: false
 
       persons:
-        - slug: "niels-de-fraguier"
+        - permalink: "/fr/histoire/melanie-ramamonjisoa/"
+          path: "/persons/melanie-ramamonjisoa"
+          slug: "melanie-ramamonjisoa"
+          file: "content/fr/persons/melanie-ramamonjisoa.html"
           role: >-
             
 
-        - slug: "melanie-ramamonjisoa"
+        - permalink: "/fr/histoire/niels-de-fraguier/"
+          path: "/persons/niels-de-fraguier"
+          slug: "niels-de-fraguier"
+          file: "content/fr/persons/niels-de-fraguier.html"
           role: >-
             
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Fabrication
-    slug: "fabrication"
-    position: 2
-    rank: 2
+    slug: >-
+      fabrication
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Fabrication
+        heading: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      base: 3
+    top:
+      active: false
     data:
       layout: no_background
       text: >-
-        <p>FUTURs est un jeu de cartes éco-responsable et socialement engagé. Il est entièrement fabriqué en France, dans la région Rhône-Alpes, par l'entreprise Ludotopia, qui emploie des personnes en difficulté pour réaliser l'assemblage du jeu. Le jeu est imprimé sur du papier recyclé et certifié FSC (Forest Stewardship Council), garantissant une gestion durable des forêts. Les encres utilisées sont d'origine végétale. </p><p>Pour minimiser les pertes de papier, les 128 cartes du jeu ont été conçues pour être imprimées sur deux planches standard de 64 cartes. Le livret de jeu a été réduit au minimum, avec seulement 4 pages imprimées, et les règles du jeu sont accessibles en ligne via un QR code. Enfin, le jeu ne contient aucun plastique, étant composé uniquement de papier.<br></p>
+        <p>FUTURs est un jeu de cartes éco-responsable et socialement engagé. Il est entièrement fabriqué en France, dans la région Rhône-Alpes, par l'entreprise Ludotopia, qui emploie des personnes en difficulté pour réaliser l'assemblage du jeu. Le jeu est imprimé sur du papier recyclé et certifié FSC (Forest Stewardship Council), garantissant une gestion durable des forêts. Les encres utilisées sont d'origine végétale. </p><p>Pour minimiser les pertes de papier, les 128 cartes du jeu ont été conçues pour être imprimées sur deux planches standard de 64 cartes. Le livret de jeu a été réduit au minimum, avec seulement 4 pages imprimées, et les règles du jeu sont accessibles en ligne via un QR code. Enfin, le jeu ne contient aucun plastique, étant composé uniquement de papier.</p>
 
       notes: >-
         
@@ -198,63 +271,97 @@ contents:
     template: persons
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      base: 3
       children: 3
+    top:
+      active: false
     data:
       description: >-
         
 
-      with_link: true
-      with_photo: true
+      layout: grid
       options:
         image: true
         summary: true
         link: true
+        contact: false
 
       persons:
-        - slug: "ludotopia"
+        - permalink: "/fr/histoire/ludotopia/"
+          path: "/persons/ludotopia"
+          slug: "ludotopia"
+          file: "content/fr/persons/ludotopia.html"
           role: >-
             
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Partenaires majeurs
-    slug: "partenaires-majeurs"
-    position: 3
-    rank: 2
+    slug: >-
+      partenaires-majeurs
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Partenaires majeurs
+        heading: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      base: 3
       children: 3
+    top:
+      active: false
     data:
       layout: grid
       description: >-
         
 
-      with_link: true
       options:
         link: true
         logo: true
         summary: false
 
       organizations:
-        - slug: "lecologie-pour-tous"
-        - slug: "studio-syllabe"
+        - permalink: "/fr/organisations/l-ecologie-pour-tous/"
+          path: "/organizations/l-ecologie-pour-tous"
+          slug: "l-ecologie-pour-tous"
+          file: "content/fr/organizations/l-ecologie-pour-tous.html"
+        - permalink: "/fr/organisations/studio-syllabe/"
+          path: "/organizations/studio-syllabe"
+          slug: "studio-syllabe"
+          file: "content/fr/organizations/studio-syllabe.html"
 
 
   - kind: block
     template: call_to_action
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      base: 3
+    top:
+      active: true
+      description: >-
+        <p>Inscrivez-vous à la newsletter de FUTURs afin de recevoir toutes les nouveautés du jeu.</p><p>Sorties de nouveaux modes de jeu, nouvelles ressources, nouveaux ateliers, appels à participation.</p>
     data:
       layout: accent_background
       text: >-
@@ -278,8 +385,6 @@ contents:
             https://dashboard.mailerlite.com/forms/520220/106171449454102311/share
 
           target_blank: true
-
-
 
 
 

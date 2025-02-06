@@ -4,13 +4,22 @@ items:
 - title: Règles du jeu
   target: "/fr/modes-de-jeu/"
   kind: page
+  new_tab: false
   children: []
+  path: "/pages/modes-de-jeu"
+  file: content/fr/pages/modes-de-jeu/_index.html
 - title: Inventaire des cartes
   target: "/fr/les-cartes/"
   kind: page
+  new_tab: false
   children: []
+  path: "/pages/les-cartes"
+  file: content/fr/pages/les-cartes/_index.html
 - title: Ressources pédagogiques
-  target: "/fr/modes-de-jeu-educatifs/"
+  target: "/fr/ressources-pedagogique-enseignants-parents/"
   kind: page
+  new_tab: false
   children: []
+  path: "/pages/ressources-pedagogique-enseignants-parents"
+  file: content/fr/pages/ressources-pedagogique-enseignants-parents/_index.html
 

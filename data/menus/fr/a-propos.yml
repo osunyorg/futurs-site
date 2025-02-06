@@ -4,13 +4,22 @@ items:
 - title: L'histoire de FUTURs
   target: "/fr/histoire/"
   kind: page
+  new_tab: false
   children: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
 - title: Foire aux questions
   target: "/fr/foire-aux-questions/"
   kind: page
+  new_tab: false
   children: []
+  path: "/pages/foire-aux-questions"
+  file: content/fr/pages/foire-aux-questions/_index.html
 - title: Newsletter
   target: "/fr/newsletter/"
   kind: page
+  new_tab: false
   children: []
+  path: "/pages/newsletter"
+  file: content/fr/pages/newsletter/_index.html
 
