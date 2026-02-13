@@ -2,76 +2,104 @@
 title: Menu principal
 items:
 - title: Règles du jeu
+  slug: regles-du-jeu
   target: "/fr/modes-de-jeu/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/modes-de-jeu"
   file: content/fr/pages/modes-de-jeu/_index.html
 - title: Cartes
+  slug: cartes
   target: "/fr/les-cartes/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/les-cartes"
   file: content/fr/pages/les-cartes/_index.html
 - title: Atelier « Le Conseil du Futur »
+  slug: atelier-le-conseil-du-futur
   target: "/fr/ateliers-de-sensibilisation-le-conseil-du-futur/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/ateliers-de-sensibilisation-le-conseil-du-futur"
   file: content/fr/pages/ateliers-de-sensibilisation-le-conseil-du-futur/_index.html
 - title: À propos
+  slug: a-propos
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Ressources pédagogiques
+    slug: ressources-pedagogiques
     target: "/fr/ressources-pedagogique-enseignants-parents/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/ressources-pedagogique-enseignants-parents"
     file: content/fr/pages/ressources-pedagogique-enseignants-parents/_index.html
   - title: L'histoire de FUTURs
+    slug: l-histoire-de-futurs
     target: "/fr/histoire/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/persons"
     file: content/fr/persons/_index.html
   - title: Foire aux Questions
+    slug: foire-aux-questions
     target: "/fr/foire-aux-questions/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/foire-aux-questions"
     file: content/fr/pages/foire-aux-questions/_index.html
   - title: Personnalisation du jeu
+    slug: personnalisation-du-jeu
     target: "/fr/offre-entreprise/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/offre-entreprise"
     file: content/fr/pages/offre-entreprise/_index.html
   - title: Newsletter
+    slug: newsletter
     target: "/fr/newsletter/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/newsletter"
     file: content/fr/pages/newsletter/_index.html
   - title: Contact
+    slug: contact
     target: "/fr/contact/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/contact"
     file: content/fr/pages/contact/_index.html
+  descendants_targets:
+  - "/fr/contact/"
+  - "/fr/foire-aux-questions/"
+  - "/fr/histoire/"
+  - "/fr/newsletter/"
+  - "/fr/offre-entreprise/"
+  - "/fr/ressources-pedagogique-enseignants-parents/"
 - title: "Commander le jeu \U0001F381 "
+  slug: commander-le-jeu
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

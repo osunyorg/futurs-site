@@ -2,8 +2,10 @@
 title: Liens sociaux
 items:
 - title: Ulule
+  slug: ulule
   target: https://fr.ulule.com/futurs-le-jeu/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

@@ -2,13 +2,17 @@
 title: Contact
 items:
 - title: Suivez FUTURs sur Instagram
+  slug: suivez-futurs-sur-instagram
   target: https://www.instagram.com/futurs_le_jeu/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Commander FUTURs
+  slug: commander-futurs
   target: https://buy.stripe.com/8wMfZH5Gz3uG2Ig4gs
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

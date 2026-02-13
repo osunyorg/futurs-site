@@ -2,24 +2,30 @@
 title: À propos
 items:
 - title: L'histoire de FUTURs
+  slug: l-histoire-de-futurs
   target: "/fr/histoire/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Foire aux questions
+  slug: foire-aux-questions
   target: "/fr/foire-aux-questions/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/foire-aux-questions"
   file: content/fr/pages/foire-aux-questions/_index.html
 - title: Newsletter
+  slug: newsletter
   target: "/fr/newsletter/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/newsletter"
   file: content/fr/pages/newsletter/_index.html
 
