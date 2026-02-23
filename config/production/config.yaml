@@ -7,6 +7,11 @@ osuny:
   website:
     id: 375f7ee4-2ced-4101-a72d-69e8b7484337
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "futurs-lejeu.fr"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
