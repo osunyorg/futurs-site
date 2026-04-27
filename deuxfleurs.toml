@@ -13,3 +13,904 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/en/citation/index.html"
+to = "/en/actualites-1/citation/"
+
+[[redirects]]
+from = "/contact/index.html"
+to = "/fr/contact/"
+
+[[redirects]]
+from = "/les-actus/problematique/index.html"
+to = "/fr/les-actus/problematique/"
+
+[[redirects]]
+from = "/en/espoir/index.html"
+to = "/en/actualites-1/espoir/"
+
+[[redirects]]
+from = "/accessibilite/index.html"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/fr/histoire/n-f/index.html"
+to = "/fr/histoire/f-n/"
+
+[[redirects]]
+from = "/actualites-1/climat/index.html"
+to = "/en/actualites-1/climat/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-education/index.html"
+to = "/fr/les-actus/2023-10-21-education/"
+
+[[redirects]]
+from = "/actualites/ulule/index.html"
+to = "/fr/les-actus/news/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-restauration-des-ecosystemes/index.html"
+to = "/fr/les-actus/2023-10-22-restauration-des-ecosystemes/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-jane-goodall-1/index.html"
+to = "/fr/les-actus/2023-10-19-fatima-ouassak/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-peuples-indigenes/index.html"
+to = "/fr/les-actus/2023-10-21-peuples-indigenes/"
+
+[[redirects]]
+from = "/fr/les-actus/2023-12-05-un-jeu-de-cartes-ecologique-et-engage-futurs-le-jeu-de-societe-pour-agir-contre-le-changement-climat/index.html"
+to = "/fr/les-actus/2024-10-25-un-jeu-de-cartes-ecologique-et-engage-futurs-le-jeu-de-societe-pour-agir-contre-le-changement-climat/"
+
+[[redirects]]
+from = "/histoire/niels-de-fraguier-1/les-actus/index.html"
+to = "/fr/histoire/f-n/les-actus/"
+
+[[redirects]]
+from = "/foire-aux-questions/index.html"
+to = "/fr/foire-aux-questions/"
+
+[[redirects]]
+from = "/equipe/ludotopia/index.html"
+to = "/fr/histoire/ludotopia/"
+
+[[redirects]]
+from = "/les-actus/2023-12-22-lequilibre-planetaire/index.html"
+to = "/fr/les-actus/2023-12-22-lequilibre-planetaire/"
+
+[[redirects]]
+from = "/en/actualites/biodiversite/index.html"
+to = "/en/actualites-1/biodiversite/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-vandana-shiva/index.html"
+to = "/fr/les-actus/2023-10-21-vandana-shiva/"
+
+[[redirects]]
+from = "/les-actus/ulule/index.html"
+to = "/fr/les-actus/news/"
+
+[[redirects]]
+from = "/en/organisations/vin-djeu/index.html"
+to = "/en/organisations/vin-d-jeu/"
+
+[[redirects]]
+from = "/actualites-1/biodiversite/index.html"
+to = "/en/actualites-1/biodiversite/"
+
+[[redirects]]
+from = "/organisations/dystopeek/index.html"
+to = "/fr/organisations/dystopeek/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-jane-goodall-1/index.html"
+to = "/fr/les-actus/2023-10-19-fatima-ouassak/"
+
+[[redirects]]
+from = "/fr/newslettr/index.html"
+to = "/fr/newsletter/"
+
+[[redirects]]
+from = "/modes-de-jeu/index.html"
+to = "/fr/modes-de-jeu/"
+
+[[redirects]]
+from = "/actualites/2023-10-09-une-surprise-pour-la-derniere-semaine-de-campagne/index.html"
+to = "/fr/les-actus/2023-10-09-une-surprise-pour-la-derniere-semaine-de-campagne/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-extinction-de-la-biodiversite/index.html"
+to = "/fr/les-actus/2023-10-23-extinction-de-la-biodiversite/"
+
+[[redirects]]
+from = "/organisations/climax/index.html"
+to = "/fr/organisations/climax/"
+
+[[redirects]]
+from = "/organisations/lecologie-pour-tous/index.html"
+to = "/en/organisations/l-ecologie-pour-tous/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/en/actualites/espoir/index.html"
+to = "/en/actualites-1/espoir/"
+
+[[redirects]]
+from = "/en/actualites/action/index.html"
+to = "/en/actualites-1/action/"
+
+[[redirects]]
+from = "/fr/les-actus/2024-11-20-futurs-et-laction-climatique-des-jeux-pour-un-avenir-meilleur/index.html"
+to = "/fr/les-actus/2025-11-20-futurs-et-laction-climatique-des-jeux-pour-un-avenir-meilleur/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-benevolat/index.html"
+to = "/fr/les-actus/2023-10-22-benevolat/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-travail/index.html"
+to = "/fr/les-actus/2023-10-21-travail/"
+
+[[redirects]]
+from = "/organisations/make-sense/index.html"
+to = "/fr/organisations/make-sense/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-montee-des-eaux/index.html"
+to = "/fr/les-actus/2023-10-21-montee-des-eaux/"
+
+[[redirects]]
+from = "/actualites-1/vigilance/index.html"
+to = "/en/actualites-1/vigilance/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-faune-sauvage/index.html"
+to = "/fr/les-actus/2023-10-21-faune-sauvage/"
+
+[[redirects]]
+from = "/actualites/2023-12-02-le-pack-les-jeux-sont-faits-3-jeux-futurs-devient-disponible-en-belgique-et-en-suisse/index.html"
+to = "/fr/les-actus/2023-10-02-le-pack-les-jeux-sont-faits-3-jeux-futurs-devient-disponible-en-belgique-et-en-suisse/"
+
+[[redirects]]
+from = "/en/organisations/le-jane-goodall-institute-france/index.html"
+to = "/en/organisations/jane-goodall-institute-france/"
+
+[[redirects]]
+from = "/agenda/index.html"
+to = "/fr/agenda/"
+
+[[redirects]]
+from = "/actualites-1/problematique/index.html"
+to = "/en/actualites-1/problematique/"
+
+[[redirects]]
+from = "/les-actus/climat/index.html"
+to = "/fr/les-actus/climat/"
+
+[[redirects]]
+from = "/en/biodiversite/index.html"
+to = "/en/actualites-1/biodiversite/"
+
+[[redirects]]
+from = "/actualites-1/modes-de-jeu/index.html"
+to = "/en/actualites-1/modes-de-jeu/"
+
+[[redirects]]
+from = "/en/actualites/bien-etre/index.html"
+to = "/en/actualites-1/bien-etre/"
+
+[[redirects]]
+from = "/en/actualites/problematique/index.html"
+to = "/en/actualites-1/problematique/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-regime-vegetalise/index.html"
+to = "/fr/les-actus/2023-10-22-regime-vegetalise/"
+
+[[redirects]]
+from = "/actualites-1/espoir/index.html"
+to = "/en/actualites-1/espoir/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-injustice-equite/index.html"
+to = "/fr/les-actus/2023-10-21-injustice-equite/"
+
+[[redirects]]
+from = "/en/actualites/climat/index.html"
+to = "/en/actualites-1/climat/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-acidification-des-oceans/index.html"
+to = "/fr/les-actus/2023-10-23-acidification-des-oceans/"
+
+[[redirects]]
+from = "/les-actus/justice-sociale/index.html"
+to = "/fr/les-actus/justice-sociale/"
+
+[[redirects]]
+from = "/les-actus/news/index.html"
+to = "/fr/les-actus/news/"
+
+[[redirects]]
+from = "/fr/les-actus/2024-11-04-les-meilleurs-jeux-de-societe-a-offrir-pour-noel-decouvrez-futurs/index.html"
+to = "/fr/les-actus/2025-11-04-les-meilleurs-jeux-de-societe-a-offrir-pour-noel-decouvrez-futurs/"
+
+[[redirects]]
+from = "/team/index.html"
+to = "/en/team/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-futurs-affilies/index.html"
+to = "/fr/les-actus/2023-10-23-futurs-eveilles/"
+
+[[redirects]]
+from = "/histoire/equipe-editoriale/index.html"
+to = "/fr/histoire/equipe-editoriale/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-fin-des-centrales-a-charbon/index.html"
+to = "/fr/les-actus/2023-10-22-fin-des-centrales-a-charbon/"
+
+[[redirects]]
+from = "/actualites/2023-10-02-le-pack-les-jeux-sont-faits-3-jeux-futurs-devient-disponible-en-belgique-et-en-suisse/index.html"
+to = "/fr/les-actus/2023-10-02-le-pack-les-jeux-sont-faits-3-jeux-futurs-devient-disponible-en-belgique-et-en-suisse/"
+
+[[redirects]]
+from = "/les-actus/index.html"
+to = "/fr/les-actus/"
+
+[[redirects]]
+from = "/fr/organisations/le-jane-goodall-institute-france/index.html"
+to = "/fr/organisations/jane-goodall-institute-france/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/les-actus/2023-11-25-les-meilleurs-jeux-de-societe-ecologiques-et-sur-lenvironnement/index.html"
+to = "/fr/les-actus/2025-11-01-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
+
+[[redirects]]
+from = "/equipe/niels-de-fraguier-1/index.html"
+to = "/fr/histoire/f-n/"
+
+[[redirects]]
+from = "/en/action/index.html"
+to = "/en/actualites-1/action/"
+
+[[redirects]]
+from = "/les-cartes/index.html"
+to = "/fr/les-cartes/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-systeme-lineaire-circulaire/index.html"
+to = "/fr/les-actus/2023-10-21-systeme-lineaire-circulaire/"
+
+[[redirects]]
+from = "/actualites/2023-10-09-le-cap-des-150-depasse-en-route-pour-la-creation-dune-communaute-de-futuristes/index.html"
+to = "/fr/les-actus/2023-10-09-le-cap-des-150-depasse-en-route-pour-la-creation-dune-communaute-de-futuristes/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-finance-noire-contre-le-vivant/index.html"
+to = "/fr/les-actus/2023-10-23-finance-noire-contre-le-vivant/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-dependance-aux-energies-fossiles/index.html"
+to = "/fr/les-actus/2023-10-23-dependance-aux-energies-fossiles/"
+
+[[redirects]]
+from = "/organisations/le-zephyr-media-independant/index.html"
+to = "/fr/organisations/le-zephyr-media-independant/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/actualites/2023-09-30-la-production-du-jeu-est-validee-atteignons-150-pour-la-creation-dun-espace-interactif/index.html"
+to = "/fr/les-actus/2023-09-30-la-production-du-jeu-est-validee-atteignons-150-pour-la-creation-dun-espace-interactif/"
+
+[[redirects]]
+from = "/en/vigilance/index.html"
+to = "/en/actualites-1/vigilance/"
+
+[[redirects]]
+from = "/fr/organisations/temoignages/index.html"
+to = "/fr/organisations/categories/temoignages/"
+
+[[redirects]]
+from = "/fr/ressources-pedagogiques/index.html"
+to = "/fr/ressources-pedagogique-enseignants-parents/"
+
+[[redirects]]
+from = "/actualites-1/justice-sociale/index.html"
+to = "/en/actualites-1/justice-sociale/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-egalite-des-genres/index.html"
+to = "/fr/les-actus/2023-10-21-egalite-des-genres/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-deconnexion-reconnexion/index.html"
+to = "/fr/les-actus/2023-10-22-deconnexion-reconnexion/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-interets-prives-bien-collectif/index.html"
+to = "/fr/les-actus/2023-10-21-interets-prives-bien-collectif/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-metier-d-utilite-publique/index.html"
+to = "/fr/les-actus/2023-10-22-metier-d-utilite-publique/"
+
+[[redirects]]
+from = "/actualites/2023-10-06-futurs-fait-la-une-des-medias-et-des-organisations-engagees/index.html"
+to = "/fr/les-actus/2023-10-06-futurs-fait-la-une-des-medias-et-des-organisations-engagees/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-croissance-decroissance/index.html"
+to = "/fr/les-actus/2023-10-21-croissance-decroissance/"
+
+[[redirects]]
+from = "/offre-entreprise/index.html"
+to = "/fr/offre-entreprise/"
+
+[[redirects]]
+from = "/les-actus/vigilance/index.html"
+to = "/fr/les-actus/vigilance/"
+
+[[redirects]]
+from = "/equipe/niels-de-fraguier-1/les-actus/index.html"
+to = "/fr/histoire/f-n/les-actus/"
+
+[[redirects]]
+from = "/les-actus/cartes/index.html"
+to = "/fr/les-actus/cartes/"
+
+[[redirects]]
+from = "/organisations/carbo/index.html"
+to = "/fr/organisations/carbo/"
+
+[[redirects]]
+from = "/les-actus/2023-12-15-futurs-brouilles-strategie/index.html"
+to = "/fr/les-actus/2023-12-15-futurs-brouilles-strategie/"
+
+[[redirects]]
+from = "/en/organisations/lecologie-pour-tous/index.html"
+to = "/en/organisations/l-ecologie-pour-tous/"
+
+[[redirects]]
+from = "/organisations/mr-mondialisation/index.html"
+to = "/fr/organisations/mr-mondialisation/"
+
+[[redirects]]
+from = "/histoire/index.html"
+to = "/fr/histoire/"
+
+[[redirects]]
+from = "/actualites-1/action/index.html"
+to = "/en/actualites-1/action/"
+
+[[redirects]]
+from = "/fr/organisations/soutiens/index.html"
+to = "/fr/organisations/categories/soutiens/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-accroissement-des-inegalites/index.html"
+to = "/fr/les-actus/2023-10-23-accroissement-des-inegalites/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-communaute-locale/index.html"
+to = "/fr/les-actus/2023-10-21-communaute-locale/"
+
+[[redirects]]
+from = "/organisations/natura-sciences/index.html"
+to = "/fr/organisations/natura-sciences/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-liens-sociaux/index.html"
+to = "/fr/les-actus/2023-10-21-liens-sociaux/"
+
+[[redirects]]
+from = "/equipe/futurs/index.html"
+to = "/fr/histoire/f-n/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-banque-ethique/index.html"
+to = "/fr/les-actus/2023-10-22-banque-ethique/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-futures-generations/index.html"
+to = "/fr/les-actus/2023-10-21-futures-generations/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-sante/index.html"
+to = "/fr/les-actus/2023-10-21-sante/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-agriculture-regenerative/index.html"
+to = "/fr/les-actus/2023-10-22-agriculture-regenerative/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-meteo/index.html"
+to = "/fr/les-actus/2023-10-21-meteo/"
+
+[[redirects]]
+from = "/organisations/vin-djeu/index.html"
+to = "/fr/organisations/vin-d-jeu/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-court-terme-long-terme/index.html"
+to = "/fr/les-actus/2023-10-22-court-terme-long-terme/"
+
+[[redirects]]
+from = "/les-actus/2023-10-09-le-cap-des-150-depasse-en-route-pour-la-creation-dune-communaute-de-futuristes/index.html"
+to = "/fr/les-actus/2023-10-09-le-cap-des-150-depasse-en-route-pour-la-creation-dune-communaute-de-futuristes/"
+
+[[redirects]]
+from = "/actualites/2023-09-27-nous-sommes-en-passe-datteindre-les-sommets/index.html"
+to = "/fr/les-actus/2023-09-27-nous-sommes-en-passe-datteindre-les-sommets/"
+
+[[redirects]]
+from = "/fr/les-actus/2023-12-05-un-jeu-de-cartes-ecologique-et-engage-futurs-le-jeu-de-societe-pour-agir-contre-le-changement-climatique/index.html"
+to = "/fr/les-actus/2024-10-25-un-jeu-de-cartes-ecologique-et-engage-futurs-le-jeu-de-societe-pour-agir-contre-le-changement-climat/"
+
+[[redirects]]
+from = "/les-actus/action/index.html"
+to = "/fr/les-actus/action/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-priorite-a-la-croissance-economique/index.html"
+to = "/fr/les-actus/2023-10-23-priorite-a-la-croissance-economique/"
+
+[[redirects]]
+from = "/fr/histoire/n-f/les-actus/index.html"
+to = "/fr/histoire/f-n/les-actus/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/fr/histoire/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-migrations-climatiques/index.html"
+to = "/fr/les-actus/2023-10-23-migrations-climatiques/"
+
+[[redirects]]
+from = "/fr/histoire/niels-de-fraguier-1/index.html"
+to = "/fr/histoire/f-n/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/fr/histoire/equipe-editoriale/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-secheresse/index.html"
+to = "/fr/les-actus/2023-10-21-secheresse/"
+
+[[redirects]]
+from = "/actualites/2023-09-29-plus-que-20-de-financement-pour-valider-la-production-en/index.html"
+to = "/fr/les-actus/2023-09-29-plus-que-20-de-financement-pour-valider-la-production-en/"
+
+[[redirects]]
+from = "/fr/organisations/vin-djeu/index.html"
+to = "/fr/organisations/vin-d-jeu/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-emmanuel-macron/index.html"
+to = "/fr/les-actus/2023-10-21-emmanuel-macron/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-futurs-croises/index.html"
+to = "/fr/les-actus/2023-10-23-futurs-croises/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-ocean/index.html"
+to = "/fr/les-actus/2023-10-21-ocean/"
+
+[[redirects]]
+from = "/organisations/pioche-magazine/index.html"
+to = "/fr/organisations/pioche-magazine/"
+
+[[redirects]]
+from = "/les-actus/biodiversite/index.html"
+to = "/fr/les-actus/biodiversite/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/fr/les-actus/"
+
+[[redirects]]
+from = "/en/bien-etre/index.html"
+to = "/en/actualites-1/bien-etre/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-individualisme-cooperation/index.html"
+to = "/fr/les-actus/2023-10-21-individualisme-cooperation/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-surexploitation-du-monde-vivant/index.html"
+to = "/fr/les-actus/2023-10-23-surexploitation-du-monde-vivant/"
+
+[[redirects]]
+from = "/les-actus/2023-09-30-la-production-du-jeu-est-validee-atteignons-150-pour-la-creation-dun-espace-interactif/index.html"
+to = "/fr/les-actus/2023-09-30-la-production-du-jeu-est-validee-atteignons-150-pour-la-creation-dun-espace-interactif/"
+
+[[redirects]]
+from = "/actualites-1/bien-etre/index.html"
+to = "/en/actualites-1/bien-etre/"
+
+[[redirects]]
+from = "/actualites-1/citation/index.html"
+to = "/en/actualites-1/citation/"
+
+[[redirects]]
+from = "/fr/histoire/futurs-admin/index.html"
+to = "/fr/histoire/f-n/"
+
+[[redirects]]
+from = "/les-actus/2023-11-25-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/index.html"
+to = "/fr/les-actus/2025-11-01-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
+
+[[redirects]]
+from = "/team/melanie-ramamonjisoa/index.html"
+to = "/en/team/melanie-ramamonjisoa/"
+
+[[redirects]]
+from = "/les-actus/espoir/index.html"
+to = "/fr/les-actus/espoir/"
+
+[[redirects]]
+from = "/en/problematique/index.html"
+to = "/en/actualites-1/problematique/"
+
+[[redirects]]
+from = "/team/ludotopia/index.html"
+to = "/en/team/ludotopia/"
+
+[[redirects]]
+from = "/newslettr/index.html"
+to = "/fr/newsletter/"
+
+[[redirects]]
+from = "/fr/les-actus/2023-11-25-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/index.html"
+to = "/fr/les-actus/2025-11-01-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-deconnexion-politique-de-la-realite/index.html"
+to = "/fr/les-actus/2023-10-23-deconnexion-politique-de-la-realite/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-patrick-pouyanne/index.html"
+to = "/fr/les-actus/2023-10-21-patrick-pouyanne/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-mobilite-douce/index.html"
+to = "/fr/les-actus/2023-10-22-mobilite-douce/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-greenwashing/index.html"
+to = "/fr/les-actus/2023-10-23-greenwashing/"
+
+[[redirects]]
+from = "/equipe/melanie-ramamonjisoa/index.html"
+to = "/fr/histoire/melanie-ramamonjisoa/"
+
+[[redirects]]
+from = "/les-actus/2023-09-29-plus-que-20-de-financement-pour-valider-la-production-en/index.html"
+to = "/fr/les-actus/2023-09-29-plus-que-20-de-financement-pour-valider-la-production-en/"
+
+[[redirects]]
+from = "/en/actualites/vigilance/index.html"
+to = "/en/actualites-1/vigilance/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/en/organisations/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-valerie-masson-delmotte/index.html"
+to = "/fr/les-actus/2023-10-21-valerie-masson-delmotte/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-foret/index.html"
+to = "/fr/les-actus/2023-10-21-foret/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-discussions-sur-l-ecologie/index.html"
+to = "/fr/les-actus/2023-10-22-discussions-sur-l-ecologie/"
+
+[[redirects]]
+from = "/fr/les-ateliers-de-sensibilisation/index.html"
+to = "/fr/ressources-pedagogique-enseignants-parents/"
+
+[[redirects]]
+from = "/les-actus/2023-12-05-un-jeu-de-cartes-ecologique-et-engage-futurs-le-jeu-de-societe-pour-agir-contre-le-changement-climatique/index.html"
+to = "/fr/les-actus/2024-10-25-un-jeu-de-cartes-ecologique-et-engage-futurs-le-jeu-de-societe-pour-agir-contre-le-changement-climat/"
+
+[[redirects]]
+from = "/organisations/jeu-declick/index.html"
+to = "/fr/organisations/jeu-declick/"
+
+[[redirects]]
+from = "/histoire/niels-de-fraguier/index.html"
+to = "/fr/histoire/niels-de-fraguier/"
+
+[[redirects]]
+from = "/fr/les-actus/2023-10-21-jane-goodall-1/index.html"
+to = "/fr/les-actus/2023-10-19-fatima-ouassak/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-participation-citoyenne/index.html"
+to = "/fr/les-actus/2023-10-21-participation-citoyenne/"
+
+[[redirects]]
+from = "/en/actualites/citation/index.html"
+to = "/en/actualites-1/citation/"
+
+[[redirects]]
+from = "/en/actualites/justice-sociale/index.html"
+to = "/en/actualites-1/justice-sociale/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-jacques-chirac/index.html"
+to = "/fr/les-actus/2023-10-21-jacques-chirac/"
+
+[[redirects]]
+from = "/organisations/le-jane-goodall-institute-france/index.html"
+to = "/fr/organisations/jane-goodall-institute-france/"
+
+[[redirects]]
+from = "/les-actus/2023-10-20-gaz-a-effet-de-serre/index.html"
+to = "/fr/les-actus/2023-10-20-gaz-a-effet-de-serre/"
+
+[[redirects]]
+from = "/actualites/2023-10-09-plus-que-20-de-financement-pour-valider-la-production-en/index.html"
+to = "/fr/les-actus/2023-09-29-plus-que-20-de-financement-pour-valider-la-production-en/"
+
+[[redirects]]
+from = "/histoire/ludotopia/index.html"
+to = "/fr/histoire/ludotopia/"
+
+[[redirects]]
+from = "/team/niels-de-fraguier-1/index.html"
+to = "/en/team/niels-de-fraguier-1/"
+
+[[redirects]]
+from = "/les-actus/2023-12-15-futurs-lies-competitif/index.html"
+to = "/fr/les-actus/2023-12-15-symbiose/"
+
+[[redirects]]
+from = "/les-actus/2023-10-19-fatima-ouassak/index.html"
+to = "/fr/les-actus/2023-10-19-fatima-ouassak/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-planete-deterioree-planete-regeneree/index.html"
+to = "/fr/les-actus/2023-10-22-planete-deterioree-planete-regeneree/"
+
+[[redirects]]
+from = "/fr/modes-de-jeu-educatifs/index.html"
+to = "/fr/ressources-pedagogique-enseignants-parents/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-timothee-parrique/index.html"
+to = "/fr/les-actus/2023-10-21-timothee-parrique/"
+
+[[redirects]]
+from = "/actualites-1/index.html"
+to = "/en/actualites-1/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-futurs-allies/index.html"
+to = "/fr/les-actus/2023-10-23-futurs-allies/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-zones-sauvages/index.html"
+to = "/fr/les-actus/2023-10-21-zones-sauvages/"
+
+[[redirects]]
+from = "/fr/les-actus/2024-11-01-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/index.html"
+to = "/fr/les-actus/2025-11-01-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
+
+[[redirects]]
+from = "/organisations/studio-syllabe/index.html"
+to = "/en/organisations/studio-syllabe/"
+
+[[redirects]]
+from = "/ils-parlent-de-futurs/index.html"
+to = "/fr/ils-parlent-de-futurs/"
+
+[[redirects]]
+from = "/les-actus/2023-10-02-le-pack-les-jeux-sont-faits-3-jeux-futurs-devient-disponible-en-belgique-et-en-suisse/index.html"
+to = "/fr/les-actus/2023-10-02-le-pack-les-jeux-sont-faits-3-jeux-futurs-devient-disponible-en-belgique-et-en-suisse/"
+
+[[redirects]]
+from = "/les-actus/citation/index.html"
+to = "/fr/les-actus/citation/"
+
+[[redirects]]
+from = "/agenda/archives/index.html"
+to = "/fr/agenda/archives/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-isolation-des-logements/index.html"
+to = "/fr/les-actus/2023-10-22-isolation-des-logements/"
+
+[[redirects]]
+from = "/les-actus/bien-etre/index.html"
+to = "/fr/les-actus/bien-etre/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-jane-goodall/index.html"
+to = "/fr/les-actus/2023-10-21-jane-goodall/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-manque-de-collaboration/index.html"
+to = "/fr/les-actus/2023-10-23-manque-de-collaboration/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-mobilites-de-proximite/index.html"
+to = "/fr/les-actus/2023-10-22-mobilites-de-proximite/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-temperatures/index.html"
+to = "/fr/les-actus/2023-10-21-temperatures/"
+
+[[redirects]]
+from = "/en/actualites/modes-de-jeu/index.html"
+to = "/en/actualites-1/modes-de-jeu/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-gaspillage-alimentaire-reduit/index.html"
+to = "/fr/les-actus/2023-10-22-gaspillage-alimentaire-reduit/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-futurs-eveilles/index.html"
+to = "/fr/les-actus/2023-10-23-futurs-eveilles/"
+
+[[redirects]]
+from = "/fr/organisations/partenaires-majeurs/index.html"
+to = "/fr/organisations/categories/partenaires-majeurs/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-futurs-inspires/index.html"
+to = "/fr/les-actus/2023-10-23-futurs-inspires/"
+
+[[redirects]]
+from = "/les-actus/2023-10-09-une-surprise-pour-la-derniere-semaine-de-campagne/index.html"
+to = "/fr/les-actus/2023-10-09-une-surprise-pour-la-derniere-semaine-de-campagne/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-fatima-ouassak/index.html"
+to = "/fr/les-actus/2023-10-19-fatima-ouassak/"
+
+[[redirects]]
+from = "/histoire/niels-de-fraguier-1/index.html"
+to = "/fr/histoire/f-n/"
+
+[[redirects]]
+from = "/les-actus/modes-de-jeu/index.html"
+to = "/fr/les-actus/modes-de-jeu/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-citoyennete-active/index.html"
+to = "/fr/les-actus/2023-10-22-citoyennete-active/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-emissions-de-carbone-trop-elevees/index.html"
+to = "/fr/les-actus/2023-10-23-emissions-de-carbone-trop-elevees/"
+
+[[redirects]]
+from = "/fr/les-actus/2023-12-15-futurs-lies-competitif/index.html"
+to = "/fr/les-actus/2023-12-15-symbiose/"
+
+[[redirects]]
+from = "/en/climat/index.html"
+to = "/en/actualites-1/climat/"
+
+[[redirects]]
+from = "/les-actus/2023-10-06-futurs-fait-la-une-des-medias-et-des-organisations-engagees/index.html"
+to = "/fr/les-actus/2023-10-06-futurs-fait-la-une-des-medias-et-des-organisations-engagees/"
+
+[[redirects]]
+from = "/fr/organisations/lecologie-pour-tous/index.html"
+to = "/fr/organisations/l-ecologie-pour-tous/"
+
+[[redirects]]
+from = "/organisations/nice-presse/index.html"
+to = "/fr/organisations/nice-presse/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-bonheur/index.html"
+to = "/fr/les-actus/2023-10-21-bonheur/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-seconde-main/index.html"
+to = "/fr/les-actus/2023-10-22-seconde-main/"
+
+[[redirects]]
+from = "/equipe/futurs/les-actus/index.html"
+to = "/fr/histoire/f-n/les-actus/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-futurs-allies-1/index.html"
+to = "/fr/les-actus/2023-10-23-futurs-inspires/"
+
+[[redirects]]
+from = "/histoire/melanie-ramamonjisoa/index.html"
+to = "/fr/histoire/melanie-ramamonjisoa/"
+
+[[redirects]]
+from = "/les-actus/2023-09-27-nous-sommes-en-passe-datteindre-les-sommets/index.html"
+to = "/fr/les-actus/2023-09-27-nous-sommes-en-passe-datteindre-les-sommets/"
+
+[[redirects]]
+from = "/en/justice-sociale/index.html"
+to = "/en/actualites-1/justice-sociale/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-production-alimentaire-en-danger/index.html"
+to = "/fr/les-actus/2023-10-23-production-alimentaire-en-danger/"
+
+[[redirects]]
+from = "/equipe/niels-de-fraguier/index.html"
+to = "/fr/histoire/niels-de-fraguier/"
+
+[[redirects]]
+from = "/fr/histoire/niels-de-fraguier-1/les-actus/index.html"
+to = "/fr/histoire/f-n/les-actus/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-lobbying-des-interets-prives/index.html"
+to = "/fr/les-actus/2023-10-23-lobbying-des-interets-prives/"
+
+[[redirects]]
+from = "/fr/histoire/futurs-admin/les-actus/index.html"
+to = "/fr/histoire/f-n/les-actus/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-phenomenes-meteo-extremes/index.html"
+to = "/fr/les-actus/2023-10-23-phenomenes-meteo-extremes/"
+
+[[redirects]]
+from = "/en/modes-de-jeu/index.html"
+to = "/en/actualites-1/modes-de-jeu/"
+
+[[redirects]]
+from = "/newsletter/index.html"
+to = "/fr/newsletter/"
+
+[[redirects]]
+from = "/les-actus/2023-10-21-artificialisation-des-sols/index.html"
+to = "/fr/les-actus/2023-10-21-artificialisation-des-sols/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-energies-renouvelables/index.html"
+to = "/fr/les-actus/2023-10-22-energies-renouvelables/"
+
+[[redirects]]
+from = "/fr/le-conseil-du-futur/index.html"
+to = "/fr/ateliers-de-sensibilisation-le-conseil-du-futur/"
+
+[[redirects]]
+from = "/les-ateliers-de-sensibilisation/index.html"
+to = "/fr/ressources-pedagogique-enseignants-parents/"
+
+[[redirects]]
+from = "/team/niels-de-fraguier/index.html"
+to = "/en/team/niels-de-fraguier/"
+
+[[redirects]]
+from = "/les-actus/2023-10-23-pollution-grandissante/index.html"
+to = "/fr/les-actus/2023-10-23-pollution-grandissante/"
+
+[[redirects]]
+from = "/les-actus/2023-10-22-transports-partages-et-decarbones/index.html"
+to = "/fr/les-actus/2023-10-22-transports-partages-et-decarbones/"
+
