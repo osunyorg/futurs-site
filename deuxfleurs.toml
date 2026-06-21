@@ -75,6 +75,10 @@ from = "/foire-aux-questions/index.html"
 to = "/fr/foire-aux-questions/"
 
 [[redirects]]
+from = "/fr/les-actus/2024-11-01-workshop-de-sensibilisation-a-lenvironnement-et-a-la-justice-sociale-decouvrez-le-conseil-du-futur/index.html"
+to = "/fr/les-actus/2026-03-18-workshop-de-sensibilisation-a-lenvironnement-et-a-la-justice-sociale-decouvrez-le-conseil-du-futur/"
+
+[[redirects]]
 from = "/equipe/ludotopia/index.html"
 to = "/fr/histoire/ludotopia/"
 
@@ -148,7 +152,7 @@ to = "/en/actualites-1/action/"
 
 [[redirects]]
 from = "/fr/les-actus/2024-11-20-futurs-et-laction-climatique-des-jeux-pour-un-avenir-meilleur/index.html"
-to = "/fr/les-actus/2025-11-20-futurs-et-laction-climatique-des-jeux-pour-un-avenir-meilleur/"
+to = "/fr/les-actus/2026-05-06-futurs-et-laction-climatique-des-jeux-pour-un-avenir-meilleur/"
 
 [[redirects]]
 from = "/les-actus/2023-10-22-benevolat/index.html"
@@ -239,6 +243,10 @@ from = "/les-actus/news/index.html"
 to = "/fr/les-actus/news/"
 
 [[redirects]]
+from = "/fr/les-actus/2024-11-15-sensibiliser-et-agir-pour-la-nature-futurs-comme-outil-daction/index.html"
+to = "/fr/les-actus/2026-04-15-sensibiliser-et-agir-pour-la-nature-futurs-comme-outil-daction/"
+
+[[redirects]]
 from = "/fr/les-actus/2024-11-04-les-meilleurs-jeux-de-societe-a-offrir-pour-noel-decouvrez-futurs/index.html"
 to = "/fr/les-actus/2025-11-04-les-meilleurs-jeux-de-societe-a-offrir-pour-noel-decouvrez-futurs/"
 
@@ -276,7 +284,11 @@ to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
 from = "/les-actus/2023-11-25-les-meilleurs-jeux-de-societe-ecologiques-et-sur-lenvironnement/index.html"
-to = "/fr/les-actus/2025-11-01-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
+to = "/fr/les-actus/2026-06-15-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
+
+[[redirects]]
+from = "/fr/les-actus/2025-11-20-futurs-et-laction-climatique-des-jeux-pour-un-avenir-meilleur/index.html"
+to = "/fr/les-actus/2026-05-06-futurs-et-laction-climatique-des-jeux-pour-un-avenir-meilleur/"
 
 [[redirects]]
 from = "/equipe/niels-de-fraguier-1/index.html"
@@ -479,6 +491,10 @@ from = "/equipe/index.html"
 to = "/fr/histoire/"
 
 [[redirects]]
+from = "/fr/les-actus/2024-10-21-le-conseil-du-futur-un-workshop-interactif-pour-imaginer-un-monde-prospere-et-durable/index.html"
+to = "/fr/les-actus/2026-06-21-le-conseil-du-futur-un-workshop-interactif-pour-imaginer-un-monde-prospere-et-durable/"
+
+[[redirects]]
 from = "/les-actus/2023-10-23-migrations-climatiques/index.html"
 to = "/fr/les-actus/2023-10-23-migrations-climatiques/"
 
@@ -556,7 +572,7 @@ to = "/fr/histoire/f-n/"
 
 [[redirects]]
 from = "/les-actus/2023-11-25-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/index.html"
-to = "/fr/les-actus/2025-11-01-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
+to = "/fr/les-actus/2026-06-15-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
 
 [[redirects]]
 from = "/team/melanie-ramamonjisoa/index.html"
@@ -580,7 +596,7 @@ to = "/fr/newsletter/"
 
 [[redirects]]
 from = "/fr/les-actus/2023-11-25-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/index.html"
-to = "/fr/les-actus/2025-11-01-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
+to = "/fr/les-actus/2026-06-15-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
 
 [[redirects]]
 from = "/les-actus/2023-10-23-deconnexion-politique-de-la-realite/index.html"
@@ -637,6 +653,10 @@ to = "/fr/les-actus/2024-10-25-un-jeu-de-cartes-ecologique-et-engage-futurs-le-j
 [[redirects]]
 from = "/organisations/jeu-declick/index.html"
 to = "/fr/organisations/jeu-declick/"
+
+[[redirects]]
+from = "/fr/les-actus/2025-11-01-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/index.html"
+to = "/fr/les-actus/2026-06-15-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
 
 [[redirects]]
 from = "/histoire/niels-de-fraguier/index.html"
@@ -716,7 +736,7 @@ to = "/fr/les-actus/2023-10-21-zones-sauvages/"
 
 [[redirects]]
 from = "/fr/les-actus/2024-11-01-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/index.html"
-to = "/fr/les-actus/2025-11-01-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
+to = "/fr/les-actus/2026-06-15-les-meilleurs-jeux-de-societe-cadeau-ecologiques-et-sur-lenvironnement/"
 
 [[redirects]]
 from = "/organisations/studio-syllabe/index.html"
