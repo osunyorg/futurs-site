@@ -63,7 +63,7 @@ html.has-menu-opened
                 margin-top: $spacing-3
     @include media-breakpoint-up(md)
         .footer-legals
-            ul:not(.dropdown-menu),
+            ul:not(.dropdown-menu, ::empty),
             &
                 display: flex
                 gap: $spacing-2
