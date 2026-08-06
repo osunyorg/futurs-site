@@ -63,21 +63,20 @@ html.has-menu-opened
                 margin-top: $spacing-3
     @include media-breakpoint-up(md)
         .footer-legals
-            ul:not(.dropdown-menu),
+            .nav-legal,
             &
                 display: flex
                 gap: $spacing-2
                 + .footer-credit,
                 li + li
                     margin: 0
-            .nav-legal:not(::empty) + .footer-credit,
-                &::before
+            .nav-legal:not(:empty)
+                + .footer-credit::before
                     content: '•'
                     margin-right: $spacing-2
-            li + li
-                &::before
-                    content: '•'
-                    margin-right: $spacing-2
+            li + li::before
+                content: '•'
+                margin-right: $spacing-2
     @include media-breakpoint-down(desktop)
         .footer-menu
             > div + div
