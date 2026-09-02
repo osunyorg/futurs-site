@@ -195,6 +195,10 @@ from = "/actualites-1/problematique/index.html"
 to = "/en/actualites-1/problematique/"
 
 [[redirects]]
+from = "/en/2026/the-future-council-workshopmp3/index.html"
+to = "/en/files/2026/the-future-council-workshopmp3/"
+
+[[redirects]]
 from = "/les-actus/climat/index.html"
 to = "/fr/les-actus/climat/"
 
