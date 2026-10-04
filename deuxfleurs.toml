@@ -548,7 +548,7 @@ to = "/fr/les-actus/"
 
 [[redirects]]
 from = "/fr/futurs-jeu-de-cartes-cooperatif-sur-lecologie-24-euros/index.html"
-to = "/fr/futurs-jeu-de-cartes-cooperatif-sur-lecologie/"
+to = "/fr/acheter-le-jeu-futurs/"
 
 [[redirects]]
 from = "/en/bien-etre/index.html"
@@ -765,6 +765,10 @@ to = "/fr/les-actus/citation/"
 [[redirects]]
 from = "/agenda/archives/index.html"
 to = "/fr/agenda/archives/"
+
+[[redirects]]
+from = "/fr/futurs-jeu-de-cartes-cooperatif-sur-lecologie/index.html"
+to = "/fr/acheter-le-jeu-futurs/"
 
 [[redirects]]
 from = "/les-actus/2023-10-22-isolation-des-logements/index.html"
