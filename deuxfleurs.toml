@@ -547,6 +547,10 @@ from = "/actualites/index.html"
 to = "/fr/les-actus/"
 
 [[redirects]]
+from = "/fr/futurs-jeu-de-cartes-cooperatif-sur-lecologie-24-euros/index.html"
+to = "/fr/futurs-jeu-de-cartes-cooperatif-sur-lecologie/"
+
+[[redirects]]
 from = "/en/bien-etre/index.html"
 to = "/en/actualites-1/bien-etre/"
 
